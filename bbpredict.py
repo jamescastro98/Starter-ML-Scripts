@@ -1,6 +1,13 @@
 from sklearn import tree
 import pandas as pd
 import sys
+import unittest
+
+'''
+For more advanced models, lookup hitter ID
+and their respective tendencies
+and location.
+'''
 
 try:
     f=open(sys.argv[1])
@@ -8,17 +15,40 @@ try:
     team=input("Name the Pitcher's Team Acronym (NYM,ATL,etc)")
 except:
     print("File Not Existent")
-    sys.exit()
+    sys.exit(1)
 
 try:
     writecsv=open("output.csv",'w')
-    writecsv.write("Count,SecureLead,Ahead,AfterFifth,Pitch\n")
-  '''
-  Format Data for Actual Predictions
-  '''
-  for i in reader:
+    writecsv.write("Count,Ahead,Close,AfterFifth,Righty,Pitch\n")
+    '''
+    Format Data for Actual Predictions
+    '''
+    for i in reader:
+        if(team==i['home_team']):
+            home=True
+        elif(team==i['away_team']):
+            home=False
+        else:
+            print("Incorrect Team Acronym.")
+            f.close()
+            writecsv.close()
+            sys.exit(1)
+        count=str(i['balls'])+"-"+str(i['strikes'])
+        x=int(i['home_score'])
+        y=int(i['away_score'])
+        if(home):
+            ahead=x-y>0
+        else:
+            ahead=x-y<0
+        close=abs(x-y)<3
+        AfterFifth=int(i['inning'])>5
+        Righty='R'==i['stand']
+        pitchtype=i['pitch_name']
 
-    writecsv.close()
+        writecsv.write(str()+"\n")
+   
+   writecsv.close()
 except:
-    print("Incorrect Team Name or Incorrect File Format")
+    print("Incorrect File Format")
     f.close()
+    sys.exit(1)
