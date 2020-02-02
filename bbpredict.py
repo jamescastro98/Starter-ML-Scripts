@@ -2,7 +2,7 @@ from sklearn import tree
 import pandas as pd
 import sys
 import unittest
-
+import csv
 '''
 For more advanced models, lookup hitter ID
 and their respective tendencies
@@ -45,9 +45,11 @@ try:
         Righty='R'==i['stand']
         pitchtype=i['pitch_name']
 
-        writecsv.write(str()+"\n")
-   
-   writecsv.close()
+        writecsv.write(count+","+str(ahead)+","+ str(close)+","+str(AfterFifth)+","+str(Righty)+","+pitchtype+"\n")
+    writecsv.close()
+    df=pd.read_csv("output.csv")
+    print(df)
+
 except:
     print("Incorrect File Format")
     f.close()
