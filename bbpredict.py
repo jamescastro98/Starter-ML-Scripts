@@ -48,7 +48,12 @@ try:
         writecsv.write(count+","+str(ahead)+","+ str(close)+","+str(AfterFifth)+","+str(Righty)+","+pitchtype+"\n")
     writecsv.close()
     df=pd.read_csv("output.csv")
-    print(df)
+    data=pd.get_dummies(df[['Count','Ahead','Close','AfterFifth','Righty']])
+    print(data)
+    classifier=tree.DecisionTreeClassifier()
+    classtrain=classifier.fit(data,df['Pitch'])
+    print(classtrain.predict([[0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0]]))
+    print("Success")
 
 except:
     print("Incorrect File Format")
