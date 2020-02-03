@@ -1,3093 +1,1241 @@
 Count,Ahead,Close,AfterFifth,Righty,Pitch
-1-2,False,True,True,True,Sinker
-0-2,False,True,True,True,Slider
-0-1,False,True,True,True,Sinker
-0-0,False,True,True,True,Sinker
-1-2,False,True,True,True,Slider
-1-1,False,True,True,True,4-Seam Fastball
-1-0,False,True,True,True,4-Seam Fastball
-0-0,False,True,True,True,4-Seam Fastball
-1-2,False,True,True,False,Changeup
-1-2,False,True,True,False,Changeup
-0-2,False,True,True,False,Changeup
-0-1,False,True,True,False,Sinker
-0-0,False,True,True,False,Sinker
-3-2,False,True,True,False,Sinker
-3-2,False,True,True,False,Changeup
-3-1,False,True,True,False,4-Seam Fastball
-2-1,False,True,True,False,Sinker
-1-1,False,True,True,False,Curveball
-1-0,False,True,True,False,Changeup
-0-0,False,True,True,False,Sinker
-2-2,False,True,True,False,Curveball
-2-1,False,True,True,False,4-Seam Fastball
-1-1,False,True,True,False,Slider
-0-1,False,True,True,False,Changeup
-0-0,False,True,True,False,Curveball
-1-2,False,True,True,True,4-Seam Fastball
-1-1,False,True,True,True,Sinker
-0-1,False,True,True,True,Changeup
-0-0,False,True,True,True,Slider
-2-1,False,True,True,False,Changeup
-1-1,False,True,True,False,4-Seam Fastball
-1-0,False,True,True,False,Sinker
-0-0,False,True,True,False,Curveball
-0-2,False,True,False,True,Sinker
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,Slider
-0-2,False,True,False,False,Curveball
-0-1,False,True,False,False,Curveball
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,True,Curveball
-1-1,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-1-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-0-2,True,True,False,False,Changeup
-0-2,True,True,False,False,Slider
-0-2,True,True,False,False,Slider
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-1-2,True,True,False,True,Changeup
-0-2,True,True,False,True,Slider
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,Slider
-0-1,True,True,False,False,Changeup
-0-0,True,True,False,False,Sinker
-3-2,True,True,False,False,Sinker
-2-2,True,True,False,False,4-Seam Fastball
-2-1,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,False,Changeup
-0-1,True,True,False,False,Changeup
-0-0,True,True,False,False,Sinker
-1-1,True,True,False,False,Changeup
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-1-0,True,True,False,True,Sinker
-0-0,True,True,False,True,4-Seam Fastball
-0-2,True,True,False,True,Slider
-0-2,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-2-1,True,True,False,False,4-Seam Fastball
-2-0,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,Sinker
-0-0,True,True,False,False,Curveball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-3-0,False,True,False,False,Sinker
-2-0,False,True,False,False,Slider
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Changeup
-0-2,False,True,False,False,Slider
-0-2,False,True,False,False,Sinker
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Sinker
-0-2,False,True,False,False,Slider
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-0-0,False,False,False,True,Sinker
-3-2,False,False,False,False,Slider
-2-2,False,False,False,False,Slider
-2-2,False,False,False,False,Changeup
-1-2,False,False,False,False,4-Seam Fastball
-1-1,False,False,False,False,4-Seam Fastball
-1-0,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,False,Changeup
-0-1,False,False,False,True,Sinker
-0-0,False,False,False,True,Sinker
-0-0,False,False,False,True,Sinker
-2-2,False,False,False,False,Changeup
-1-2,False,False,False,False,Slider
-1-2,False,False,False,False,Curveball
-0-2,False,False,False,False,Changeup
-0-1,False,False,False,False,Changeup
-0-0,False,False,False,False,Changeup
-0-0,False,False,False,True,Sinker
-2-0,False,False,False,True,Sinker
-1-0,False,False,False,True,Curveball
-0-0,False,False,False,True,Sinker
-2-2,False,False,False,True,4-Seam Fastball
-2-1,False,False,False,True,4-Seam Fastball
-1-1,False,False,False,True,Sinker
-0-1,False,False,False,True,Slider
-0-0,False,False,False,True,Sinker
-1-1,False,False,False,True,Changeup
-1-0,False,False,False,True,Sinker
-0-0,False,False,False,True,Slider
-0-0,False,False,False,True,Sinker
-2-0,False,True,False,False,Changeup
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Slider
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-2-0,False,True,False,True,Sinker
-1-0,False,True,False,True,Changeup
-0-0,False,True,False,True,Slider
-2-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Changeup
-1-1,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Slider
-0-0,False,True,False,False,Curveball
-1-2,False,True,False,True,Sinker
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,Curveball
-2-2,False,True,False,True,Slider
-2-2,False,True,False,True,Slider
-2-1,False,True,False,True,4-Seam Fastball
-2-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-2-2,False,True,False,True,Sinker
-1-2,False,True,False,True,Changeup
-1-2,False,True,False,True,Slider
-1-2,False,True,False,True,Slider
-1-1,False,True,False,True,Curveball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Slider
-0-0,False,True,False,False,Sinker
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Curveball
-3-2,False,True,False,True,Sinker
-2-2,False,True,False,True,Slider
-2-2,False,True,False,True,Slider
-1-2,False,True,False,True,Sinker
-1-1,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,False,Slider
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Slider
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Sinker
-3-1,False,True,True,True,Sinker
-2-1,False,True,True,True,4-Seam Fastball
-2-0,False,True,True,True,4-Seam Fastball
-1-0,False,True,True,True,Slider
-0-0,False,True,True,True,Slider
-0-0,False,True,True,False,4-Seam Fastball
-3-2,False,True,True,False,4-Seam Fastball
-2-2,False,True,True,False,4-Seam Fastball
-2-2,False,True,True,False,Slider
-1-2,False,True,True,False,Curveball
-1-1,False,True,True,False,Curveball
-0-1,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,True,4-Seam Fastball
-1-2,False,True,True,False,Changeup
-0-2,False,True,True,False,Curveball
-0-1,False,True,True,False,Curveball
-0-0,False,True,True,False,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,False,Sinker
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-3-2,False,True,False,False,Slider
-3-2,False,True,False,False,Sinker
-3-2,False,True,False,False,Slider
-2-2,False,True,False,False,Slider
-2-1,False,True,False,False,Slider
-1-1,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Slider
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,True,Sinker
-1-2,False,True,False,True,Sinker
-1-2,False,True,False,True,Slider
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-3-2,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,False,Slider
-2-1,False,True,False,False,Changeup
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,True,Sinker
-2-2,False,True,False,True,Sinker
-1-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Changeup
-1-2,False,True,False,True,Sinker
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Changeup
-0-0,False,True,False,True,Sinker
-0-0,False,True,False,False,Curveball
-2-2,False,True,False,True,Sinker
-1-2,False,True,False,True,Changeup
-1-2,False,True,False,True,Slider
-0-2,False,True,False,True,Slider
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-3-1,False,True,False,False,4-Seam Fastball
-2-1,False,True,False,False,Sinker
-1-1,False,True,False,False,Sinker
-0-1,False,True,False,False,Curveball
-0-0,False,True,False,False,Sinker
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-1-2,True,True,False,False,Sinker
-1-1,True,True,False,False,Sinker
-1-0,True,True,False,False,Curveball
-0-0,True,True,False,False,Sinker
-0-2,True,True,False,True,4-Seam Fastball
-0-2,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,4-Seam Fastball
-0-2,True,True,False,False,4-Seam Fastball
-0-2,True,True,False,False,Slider
-0-2,True,True,False,False,Slider
-0-1,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,4-Seam Fastball
-2-2,True,True,False,False,Slider
-2-1,True,True,False,False,Sinker
-1-1,True,True,False,False,Curveball
-0-1,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-1-2,True,True,False,True,Slider
-1-1,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,4-Seam Fastball
-1-2,False,False,False,False,4-Seam Fastball
-1-1,False,False,False,False,4-Seam Fastball
-1-0,False,False,False,False,Changeup
-0-0,False,False,False,False,4-Seam Fastball
-0-1,False,False,False,False,Sinker
-0-0,False,False,False,False,Sinker
-3-1,False,False,False,False,Changeup
-2-1,False,False,False,False,Changeup
-1-1,False,False,False,False,4-Seam Fastball
-1-0,False,False,False,False,Slider
-0-0,False,False,False,False,Slider
-2-2,False,False,False,False,4-Seam Fastball
-2-2,False,False,False,False,4-Seam Fastball
-2-1,False,False,False,False,Changeup
-1-1,False,False,False,False,4-Seam Fastball
-1-0,False,False,False,False,Sinker
-0-0,False,False,False,False,Sinker
-0-0,False,False,False,False,Sinker
-3-2,False,False,False,True,Sinker
-2-2,False,False,False,True,Slider
-1-2,False,False,False,True,Slider
-1-1,False,False,False,True,Sinker
-0-1,False,False,False,True,Sinker
-0-0,False,False,False,True,4-Seam Fastball
-3-2,False,True,False,False,Curveball
-3-1,False,True,False,False,4-Seam Fastball
-3-0,False,True,False,False,Sinker
-2-0,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-1-2,True,True,False,True,Slider
-1-2,True,True,False,True,Sinker
-1-1,True,True,False,True,Slider
-1-0,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-1-1,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-3-2,True,True,False,False,Sinker
-3-2,True,True,False,False,Sinker
-3-2,True,True,False,False,Curveball
-3-2,True,True,False,False,Changeup
-2-2,True,True,False,False,Changeup
-2-2,True,True,False,False,Changeup
-1-2,True,True,False,False,4-Seam Fastball
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-1-0,True,True,False,False,Sinker
-0-0,True,True,False,False,Changeup
-0-1,True,True,False,False,Changeup
-0-0,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-2-2,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,False,Changeup
-1-2,True,True,False,False,Slider
-1-2,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,False,Curveball
-1-1,True,True,False,False,Sinker
-1-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-2-2,True,True,False,True,Sinker
-2-2,True,True,False,True,Slider
-1-2,True,True,False,True,Sinker
-1-1,True,True,False,True,Slider
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,4-Seam Fastball
-3-1,True,True,False,False,Sinker
-2-1,True,True,False,False,Changeup
-1-1,True,True,False,False,Sinker
-0-1,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-1-0,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-1-0,True,True,False,False,Slider
-0-0,True,True,False,False,Sinker
-2-2,True,True,False,False,Changeup
-2-2,True,True,False,False,4-Seam Fastball
-2-2,True,True,False,False,Slider
-2-2,True,True,False,False,4-Seam Fastball
-2-1,True,True,False,False,Sinker
-1-1,True,True,False,False,Slider
-1-0,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-3-2,False,True,False,False,Sinker
-2-2,False,True,False,False,Changeup
-1-2,False,True,False,False,Changeup
-1-2,False,True,False,False,Slider
-1-1,False,True,False,False,Sinker
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Curveball
-2-2,False,True,False,False,4-Seam Fastball
-2-1,False,True,False,False,Changeup
-1-1,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Curveball
-0-0,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Changeup
-0-2,False,True,False,False,4-Seam Fastball
-0-2,False,True,False,False,Slider
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-0-2,True,True,False,False,Curveball
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Curveball
-2-2,True,True,False,True,Sinker
-2-2,True,True,False,True,Slider
-1-2,True,True,False,True,Sinker
-1-2,True,True,False,True,Sinker
-0-2,True,True,False,True,Sinker
-0-2,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Slider
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-2-1,True,True,False,False,Sinker
-1-1,True,True,False,False,Curveball
-0-1,True,True,False,False,Curveball
-0-0,True,True,False,False,Sinker
-0-2,True,True,False,True,Slider
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,Sinker
-2-2,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,False,Curveball
-1-1,True,True,False,False,Curveball
-1-0,True,True,False,False,Sinker
-0-0,True,True,False,False,Curveball
-0-2,True,True,False,True,Slider
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,Slider
-0-0,True,True,False,True,4-Seam Fastball
-3-2,True,True,False,False,Slider
-3-2,True,True,False,False,Curveball
-2-2,True,True,False,False,Sinker
-2-2,True,True,False,False,Curveball
-2-1,True,True,False,False,Slider
-2-0,True,True,False,False,Changeup
-1-0,True,True,False,False,Slider
-0-0,True,True,False,False,4-Seam Fastball
-0-1,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,Slider
-0-1,True,False,False,False,Changeup
-0-0,True,False,False,False,Sinker
-0-2,True,False,False,True,Slider
-0-1,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,4-Seam Fastball
-3-2,True,False,False,False,4-Seam Fastball
-3-1,True,False,False,False,4-Seam Fastball
-3-0,True,False,False,False,4-Seam Fastball
-2-0,True,False,False,False,Sinker
-1-0,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Sinker
-2-1,True,False,False,True,Sinker
-2-0,True,False,False,True,Sinker
-1-0,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,Slider
-1-2,True,False,False,False,Slider
-1-1,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,Sinker
-0-0,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,True,Sinker
-1-1,True,False,False,True,Sinker
-0-1,True,False,False,True,Slider
-0-0,True,False,False,True,4-Seam Fastball
-2-1,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,True,Slider
-1-2,False,True,False,True,Sinker
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,False,Sinker
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,4-Seam Fastball
-1-2,True,False,True,False,4-Seam Fastball
-0-2,True,False,True,False,Changeup
-0-2,True,False,True,False,4-Seam Fastball
-0-1,True,False,True,False,Curveball
-0-0,True,False,True,False,Curveball
-1-2,True,False,True,False,4-Seam Fastball
-1-1,True,False,True,False,Slider
-0-1,True,False,True,False,Curveball
-0-0,True,False,True,False,Sinker
-0-2,True,False,True,False,4-Seam Fastball
-0-1,True,False,True,False,4-Seam Fastball
-0-0,True,False,True,False,Slider
-0-0,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,False,Slider
-1-2,True,False,True,True,Slider
-0-2,True,False,True,True,Changeup
-0-1,True,False,True,True,Changeup
-0-0,True,False,True,True,Slider
-1-1,True,False,True,False,4-Seam Fastball
-0-1,True,False,True,False,4-Seam Fastball
-0-0,True,False,True,False,Sinker
-1-1,True,False,True,True,Slider
-0-1,True,False,True,True,Slider
-0-0,True,False,True,True,Sinker
-3-2,True,False,False,True,Sinker
-3-2,True,False,False,True,Sinker
-3-1,True,False,False,True,Sinker
-2-1,True,False,False,True,Sinker
-2-0,True,False,False,True,Sinker
-1-0,True,False,False,True,Slider
-0-0,True,False,False,True,Curveball
-0-0,True,False,False,False,Sinker
-1-2,True,False,False,False,Sinker
-0-2,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,Sinker
-0-0,True,False,False,False,Changeup
-0-1,True,False,False,False,Changeup
-0-0,True,False,False,False,Curveball
-2-1,True,False,False,True,Sinker
-1-1,True,False,False,True,4-Seam Fastball
-1-0,True,False,False,True,Slider
-0-0,True,False,False,True,Slider
-0-2,True,False,False,False,Slider
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Sinker
-2-2,True,True,False,True,Slider
-1-2,True,True,False,True,Sinker
-0-2,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Slider
-1-2,True,True,False,True,Slider
-0-2,True,True,False,True,Slider
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-3-2,True,True,False,True,Sinker
-3-2,True,True,False,True,Sinker
-2-2,True,True,False,True,Slider
-1-2,True,True,False,True,Curveball
-0-2,True,True,False,True,4-Seam Fastball
-0-2,True,True,False,True,Sinker
-0-2,True,True,False,True,4-Seam Fastball
-0-2,True,True,False,True,Slider
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-3-2,True,True,False,True,Slider
-2-2,True,True,False,True,Slider
-2-1,True,True,False,True,Sinker
-1-1,True,True,False,True,Sinker
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,Slider
-2-2,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,False,Sinker
-1-1,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,Curveball
-0-0,True,True,False,False,4-Seam Fastball
-2-2,True,True,False,False,Changeup
-1-2,True,True,False,False,4-Seam Fastball
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Curveball
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,False,False,True,Curveball
-1-2,False,False,False,True,Changeup
-1-1,False,False,False,True,Slider
-1-0,False,False,False,True,Sinker
-0-0,False,False,False,True,Slider
-0-0,False,False,False,True,Slider
-0-0,False,False,False,False,Sinker
-0-2,False,False,False,True,Sinker
-0-1,False,False,False,True,Slider
-0-0,False,False,False,True,Sinker
-0-1,False,False,False,False,Slider
-0-0,False,False,False,False,Curveball
-1-2,False,False,False,False,4-Seam Fastball
-0-2,False,False,False,False,Slider
-0-1,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,False,Curveball
-1-2,False,False,False,True,Sinker
-1-2,False,False,False,True,Sinker
-1-1,False,False,False,True,Sinker
-1-0,False,False,False,True,Slider
-0-0,False,False,False,True,Slider
-0-0,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,True,Sinker
-0-1,False,False,False,True,Slider
-0-0,False,False,False,True,4-Seam Fastball
-1-2,False,False,False,True,Slider
-1-1,False,False,False,True,Slider
-0-1,False,False,False,True,Slider
-0-0,False,False,False,True,Sinker
-3-1,False,False,False,False,4-Seam Fastball
-3-0,False,False,False,False,Sinker
-2-0,False,False,False,False,Sinker
-1-0,False,False,False,False,Curveball
-0-0,False,False,False,False,Curveball
-0-0,False,False,False,True,Sinker
-0-0,False,False,False,False,Sinker
-1-1,False,False,False,False,Changeup
-0-1,False,False,False,False,Sinker
-0-0,False,False,False,False,Sinker
-1-2,False,True,False,True,Slider
-1-2,False,True,False,True,Sinker
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Slider
-2-2,False,True,False,False,Changeup
-2-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Slider
-1-1,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,True,4-Seam Fastball
-2-0,False,True,False,True,Sinker
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,False,Sinker
-2-1,False,True,False,False,Changeup
-1-1,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-3-2,True,True,True,False,Changeup
-3-1,True,True,True,False,4-Seam Fastball
-2-1,True,True,True,False,Slider
-1-1,True,True,True,False,Changeup
-1-0,True,True,True,False,4-Seam Fastball
-0-0,True,True,True,False,Changeup
-0-0,True,True,True,False,Sinker
-3-2,True,True,True,True,4-Seam Fastball
-2-2,True,True,True,True,4-Seam Fastball
-2-1,True,True,True,True,4-Seam Fastball
-2-0,True,True,True,True,4-Seam Fastball
-1-0,True,True,True,True,4-Seam Fastball
-0-0,True,True,True,True,Slider
-1-2,True,True,True,False,Changeup
-0-2,True,True,True,False,4-Seam Fastball
-0-1,True,True,True,False,4-Seam Fastball
-0-0,True,True,True,False,Changeup
-0-2,True,True,True,True,Slider
-0-1,True,True,True,True,4-Seam Fastball
-0-0,True,True,True,True,Slider
-2-2,True,True,False,False,Slider
-1-2,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-1-1,True,True,False,False,Changeup
-0-1,True,True,False,False,Changeup
-0-0,True,True,False,False,Changeup
-1-2,True,True,False,True,Changeup
-1-1,True,True,False,True,4-Seam Fastball
-1-0,True,True,False,True,Curveball
-0-0,True,True,False,True,Sinker
-2-2,False,True,False,False,Slider
-1-2,False,True,False,False,Slider
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-2-0,False,True,False,False,Sinker
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,False,Changeup
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,False,Slider
-0-0,False,True,False,False,4-Seam Fastball
-2-1,False,True,False,False,Sinker
-1-1,False,True,False,False,Slider
-0-1,False,True,False,False,Slider
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,True,Sinker
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,False,Changeup
-1-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Slider
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,False,Changeup
-2-2,False,True,False,False,Sinker
-1-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Changeup
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-2-2,False,True,True,False,Slider
-1-2,False,True,True,False,Changeup
-1-2,False,True,True,False,Slider
-1-1,False,True,True,False,Slider
-0-1,False,True,True,False,Changeup
-0-0,False,True,True,False,Slider
-0-2,False,True,True,True,Slider
-0-1,False,True,True,True,Sinker
-0-0,False,True,True,True,Slider
-3-2,False,True,True,False,Changeup
-3-1,False,True,True,False,Changeup
-3-0,False,True,True,False,4-Seam Fastball
-2-0,False,True,True,False,4-Seam Fastball
-1-0,False,True,True,False,Changeup
-0-0,False,True,True,False,Slider
-3-1,False,True,True,True,Sinker
-2-1,False,True,True,True,Changeup
-1-1,False,True,True,True,Slider
-1-0,False,True,True,True,Sinker
-0-0,False,True,True,True,4-Seam Fastball
-0-2,False,True,True,True,Slider
-0-2,False,True,True,True,Changeup
-0-1,False,True,True,True,Changeup
-0-0,False,True,True,True,Curveball
-0-0,False,True,False,False,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-3-1,False,True,False,False,Sinker
-2-1,False,True,False,False,4-Seam Fastball
-2-0,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Slider
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-2-2,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,False,4-Seam Fastball
-0-2,True,True,False,False,Changeup
-0-1,True,True,False,False,Slider
-0-0,True,True,False,False,Changeup
-3-2,True,True,False,True,Slider
-2-2,True,True,False,True,Sinker
-2-2,True,True,False,True,4-Seam Fastball
-1-2,True,True,False,True,Slider
-0-2,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-1-2,True,True,False,False,Slider
-1-1,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-3-2,True,True,False,True,Slider
-2-2,True,True,False,True,Changeup
-2-1,True,True,False,True,Changeup
-2-0,True,True,False,True,Sinker
-1-0,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,Slider
-3-2,True,True,False,True,Sinker
-2-2,True,True,False,True,Slider
-2-2,True,True,False,True,Changeup
-2-1,True,True,False,True,Sinker
-2-0,True,True,False,True,Sinker
-1-0,True,True,False,True,Curveball
-0-0,True,True,False,True,Sinker
-0-0,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,True,Sinker
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,False,Slider
-0-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,True,Slider
-2-1,False,True,False,True,Sinker
-2-0,False,True,False,True,Sinker
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-0-0,False,True,True,True,4-Seam Fastball
-1-1,False,True,True,False,Changeup
-0-1,False,True,True,False,Sinker
-0-0,False,True,True,False,Changeup
-1-2,False,True,True,True,4-Seam Fastball
-1-1,False,True,True,True,Slider
-0-1,False,True,True,True,4-Seam Fastball
-0-0,False,True,True,True,Slider
-1-2,False,True,True,True,Slider
-1-1,False,True,True,True,Slider
-1-0,False,True,True,True,4-Seam Fastball
-0-0,False,True,True,True,4-Seam Fastball
-2-2,False,True,True,False,Changeup
-1-2,False,True,True,False,4-Seam Fastball
-1-2,False,True,True,False,Changeup
-0-2,False,True,True,False,4-Seam Fastball
-0-1,False,True,True,False,Sinker
-0-0,False,True,True,False,4-Seam Fastball
-0-2,False,True,True,False,Changeup
-0-1,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,Sinker
-0-1,False,True,True,False,Slider
-0-0,False,True,True,False,Sinker
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,Slider
-1-2,False,True,False,False,Changeup
-1-2,False,True,False,False,4-Seam Fastball
-0-2,False,True,False,False,Curveball
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Changeup
-1-2,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Changeup
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,4-Seam Fastball
-3-1,False,True,False,False,4-Seam Fastball
-3-0,False,True,False,False,Sinker
-2-0,False,True,False,False,Changeup
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-1-0,False,True,False,True,Changeup
-0-0,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,True,Slider
-1-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Sinker
-0-2,False,True,False,False,Curveball
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,True,4-Seam Fastball
-3-1,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,True,4-Seam Fastball
-2-0,False,True,False,True,Sinker
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Slider
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,False,Changeup
-2-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,True,Changeup
-2-1,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-3-2,False,True,False,False,4-Seam Fastball
-3-2,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,False,4-Seam Fastball
-2-1,False,True,False,False,Changeup
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-2-2,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-0-1,True,False,True,True,Sinker
-0-0,True,False,True,True,Curveball
-0-0,True,False,True,False,Sinker
-2-2,True,False,True,False,4-Seam Fastball
-2-2,True,False,True,False,Slider
-2-1,True,False,True,False,4-Seam Fastball
-1-1,True,False,True,False,Changeup
-1-0,True,False,True,False,4-Seam Fastball
-0-0,True,False,True,False,Sinker
-0-0,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,True,Curveball
-1-0,True,False,True,False,4-Seam Fastball
-0-0,True,False,True,False,Sinker
-0-1,True,False,True,True,Sinker
-0-0,True,False,True,True,Sinker
-2-1,True,False,True,True,Sinker
-1-1,True,False,True,True,Slider
-1-0,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,True,Sinker
-2-1,True,False,False,True,4-Seam Fastball
-2-0,True,False,False,True,4-Seam Fastball
-1-0,True,False,False,True,Sinker
-0-0,True,False,False,True,4-Seam Fastball
-0-1,True,False,False,True,Slider
-0-0,True,False,False,True,Sinker
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,4-Seam Fastball
-0-2,True,False,False,False,Slider
-0-1,True,False,False,False,Sinker
-0-0,True,False,False,False,Sinker
-3-2,True,False,False,False,Sinker
-2-2,True,False,False,False,Changeup
-2-2,True,False,False,False,Sinker
-1-2,True,False,False,False,4-Seam Fastball
-1-2,True,False,False,False,Slider
-0-2,True,False,False,False,Changeup
-0-1,True,False,False,False,Changeup
-0-0,True,False,False,False,Sinker
-1-1,True,False,False,True,Slider
-1-0,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,4-Seam Fastball
-1-2,True,False,False,False,Slider
-0-2,True,False,False,False,Changeup
-0-1,True,False,False,False,Sinker
-0-0,True,False,False,False,Slider
-1-2,True,False,False,False,Slider
-1-2,True,False,False,False,Sinker
-0-2,True,False,False,False,Curveball
-0-2,True,False,False,False,4-Seam Fastball
-0-2,True,False,False,False,Changeup
-0-2,True,False,False,False,Slider
-0-1,True,False,False,False,Slider
-0-0,True,False,False,False,Changeup
-0-0,True,False,False,True,4-Seam Fastball
-1-2,True,False,False,True,Slider
-0-2,True,False,False,True,Slider
-0-1,True,False,False,True,Sinker
-0-0,True,False,False,True,4-Seam Fastball
-3-1,True,False,False,True,Sinker
-3-0,True,False,False,True,4-Seam Fastball
-2-0,True,False,False,True,Sinker
-1-0,True,False,False,True,Sinker
-0-0,True,False,False,True,Slider
-1-1,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,Slider
-0-0,True,False,False,False,4-Seam Fastball
-1-2,True,False,False,False,Changeup
-1-1,True,False,False,False,Curveball
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Curveball
-3-1,True,False,False,False,Slider
-3-0,True,False,False,False,4-Seam Fastball
-2-0,True,False,False,False,Changeup
-1-0,True,False,False,False,Sinker
-0-0,True,False,False,False,Sinker
-2-2,True,False,False,True,Slider
-2-1,True,False,False,True,4-Seam Fastball
-1-1,True,False,False,True,Sinker
-1-0,True,False,False,True,Slider
-0-0,True,False,False,True,Sinker
-1-2,True,False,False,False,4-Seam Fastball
-1-1,True,False,False,False,4-Seam Fastball
-1-0,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Sinker
-1-2,True,False,False,False,4-Seam Fastball
-1-2,True,False,False,False,4-Seam Fastball
-0-2,True,False,False,False,Changeup
-0-2,True,False,False,False,Changeup
-0-2,True,False,False,False,Curveball
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Sinker
-1-2,True,True,True,False,Slider
-0-2,True,True,True,False,4-Seam Fastball
-0-2,True,True,True,False,Changeup
-0-2,True,True,True,False,Slider
-0-1,True,True,True,False,Slider
-0-0,True,True,True,False,4-Seam Fastball
-3-2,True,True,True,True,Sinker
-2-2,True,True,True,True,Sinker
-2-1,True,True,True,True,Slider
-1-1,True,True,True,True,4-Seam Fastball
-0-1,True,True,True,True,Sinker
-0-0,True,True,True,True,Sinker
-1-0,True,True,True,False,Slider
-0-0,True,True,True,False,Curveball
-1-2,True,True,True,True,Slider
-0-2,True,True,True,True,Changeup
-0-1,True,True,True,True,Curveball
-0-0,True,True,True,True,Sinker
-1-0,True,True,True,True,Sinker
-0-0,True,True,True,True,Slider
-1-2,True,True,True,True,Sinker
-1-1,True,True,True,True,Sinker
-1-0,True,True,True,True,Changeup
-0-0,True,True,True,True,Curveball
-1-2,True,True,True,False,Slider
-1-2,True,True,True,False,4-Seam Fastball
-1-1,True,True,True,False,Slider
-1-0,True,True,True,False,4-Seam Fastball
-0-0,True,True,True,False,Sinker
-1-0,True,True,True,True,Sinker
-0-0,True,True,True,True,Slider
-1-2,True,True,True,False,Slider
-1-1,True,True,True,False,Sinker
-1-0,True,True,True,False,Slider
-0-0,True,True,True,False,4-Seam Fastball
-0-0,True,True,True,False,Changeup
-2-2,True,True,True,True,Changeup
-2-1,True,True,True,True,4-Seam Fastball
-1-1,True,True,True,True,Sinker
-0-1,True,True,True,True,Sinker
-0-0,True,True,True,True,Sinker
-0-1,True,True,True,False,Changeup
-0-0,True,True,True,False,4-Seam Fastball
-0-2,True,True,False,True,Sinker
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-2-2,True,True,False,True,Slider
-2-1,True,True,False,True,Curveball
-2-0,True,True,False,True,Sinker
-1-0,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-3-0,True,True,False,False,Changeup
-2-0,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,Changeup
-0-0,True,True,False,False,4-Seam Fastball
-0-2,True,True,False,True,Changeup
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,Slider
-0-2,True,True,False,False,Changeup
-0-1,True,True,False,False,Changeup
-0-0,True,True,False,False,Curveball
-0-0,True,True,False,False,Changeup
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,4-Seam Fastball
-3-2,True,True,False,False,Slider
-3-1,True,True,False,False,4-Seam Fastball
-2-1,True,True,False,False,Changeup
-1-1,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Slider
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,4-Seam Fastball
-2-2,True,True,False,True,Sinker
-2-2,True,True,False,True,Sinker
-1-2,True,True,False,True,Sinker
-0-2,True,True,False,True,Changeup
-0-2,True,True,False,True,Slider
-0-2,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,4-Seam Fastball
-1-2,True,True,False,True,Curveball
-1-1,True,True,False,True,Sinker
-1-0,True,True,False,True,Curveball
-0-0,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-3-2,False,True,False,True,Sinker
-2-2,False,True,False,True,Sinker
-2-1,False,True,False,True,Sinker
-2-0,False,True,False,True,Sinker
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Curveball
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,4-Seam Fastball
-1-2,False,True,True,True,4-Seam Fastball
-1-1,False,True,True,True,Curveball
-1-0,False,True,True,True,Sinker
-0-0,False,True,True,True,Curveball
-0-1,False,True,True,True,Changeup
-0-0,False,True,True,True,4-Seam Fastball
-0-2,False,True,True,True,Slider
-0-1,False,True,True,True,4-Seam Fastball
-0-0,False,True,True,True,4-Seam Fastball
-0-1,False,True,True,True,Sinker
-0-0,False,True,True,True,Sinker
-2-2,False,True,True,True,Changeup
-2-1,False,True,True,True,Sinker
-1-1,False,True,True,True,Slider
-1-0,False,True,True,True,Slider
-0-0,False,True,True,True,Sinker
-2-2,False,True,True,True,Curveball
-1-2,False,True,True,True,Changeup
-1-1,False,True,True,True,Curveball
-1-0,False,True,True,True,Slider
-0-0,False,True,True,True,4-Seam Fastball
-0-0,False,True,True,True,Slider
-1-2,False,True,True,True,Changeup
-1-1,False,True,True,True,Slider
-1-0,False,True,True,True,Slider
-0-0,False,True,True,True,Curveball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-1-2,False,True,False,False,Changeup
-1-1,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Curveball
-3-2,False,True,False,True,Curveball
-2-2,False,True,False,True,Sinker
-2-2,False,True,False,True,Changeup
-1-2,False,True,False,True,Changeup
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Curveball
-0-0,False,True,False,True,Sinker
-2-1,False,True,False,True,Slider
-1-1,False,True,False,True,Changeup
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,Curveball
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Changeup
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Curveball
-0-2,False,False,False,True,Sinker
-0-1,False,False,False,True,Slider
-0-0,False,False,False,True,Sinker
-1-2,False,True,False,True,Sinker
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Slider
-0-0,False,True,False,False,4-Seam Fastball
-3-1,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Changeup
-0-0,False,True,False,True,Sinker
-3-0,False,True,False,True,4-Seam Fastball
-2-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,Curveball
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,True,Curveball
-2-2,False,True,False,True,Changeup
-2-2,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Curveball
-1-2,False,True,False,True,Slider
-1-1,False,True,False,True,Slider
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-0-2,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,4-Seam Fastball
-3-2,True,True,False,True,Sinker
-2-2,True,True,False,True,Slider
-1-2,True,True,False,True,Slider
-1-1,True,True,False,True,Sinker
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Slider
-0-0,False,True,False,True,Sinker
-3-1,False,True,False,True,4-Seam Fastball
-3-0,False,True,False,True,4-Seam Fastball
-2-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,True,Slider
-2-2,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,Sinker
-2-1,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,True,False,4-Seam Fastball
-0-2,False,True,True,False,Slider
-0-1,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,4-Seam Fastball
-3-2,False,True,True,True,Slider
-3-2,False,True,True,True,Sinker
-3-1,False,True,True,True,Sinker
-2-1,False,True,True,True,Sinker
-1-1,False,True,True,True,Curveball
-1-0,False,True,True,True,Sinker
-0-0,False,True,True,True,4-Seam Fastball
-0-2,False,True,True,True,Curveball
-0-1,False,True,True,True,Slider
-0-0,False,True,True,True,Slider
-1-0,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,Slider
-3-1,False,True,True,False,4-Seam Fastball
-2-1,False,True,True,False,Sinker
-1-1,False,True,True,False,Changeup
-0-1,False,True,True,False,Slider
-0-0,False,True,True,False,Changeup
-1-2,False,True,True,False,Slider
-1-1,False,True,True,False,Slider
-1-0,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,Changeup
-2-2,False,True,True,False,Slider
-1-2,False,True,True,False,Changeup
-1-1,False,True,True,False,Changeup
-1-0,False,True,True,False,Slider
-0-0,False,True,True,False,Slider
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Curveball
-2-2,False,True,False,False,Slider
-2-1,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Slider
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,True,Slider
-1-1,False,True,False,True,Slider
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Changeup
-0-0,True,True,False,True,Sinker
-1-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-0-2,True,True,False,False,Slider
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Changeup
-2-2,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,False,Slider
-1-2,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,Changeup
-0-0,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,True,Slider
-1-2,True,True,False,True,4-Seam Fastball
-1-1,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-2-0,True,True,False,False,Sinker
-1-0,True,True,False,False,Changeup
-0-0,True,True,False,False,Changeup
-2-2,True,True,False,True,Curveball
-1-2,True,True,False,True,Sinker
-1-2,True,True,False,True,Sinker
-1-1,True,True,False,True,Slider
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,Sinker
-3-2,True,True,False,False,Sinker
-3-2,True,True,False,False,4-Seam Fastball
-2-2,True,True,False,False,Sinker
-1-2,True,True,False,False,Changeup
-1-1,True,True,False,False,Changeup
-0-1,True,True,False,False,Changeup
-0-0,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,True,4-Seam Fastball
-1-2,True,True,False,True,Slider
-1-1,True,True,False,True,Slider
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,Slider
-1-2,True,True,False,False,Sinker
-1-2,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-3-2,True,True,False,False,Sinker
-3-2,True,True,False,False,Changeup
-2-2,True,True,False,False,Slider
-2-2,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,False,Changeup
-1-2,True,True,False,False,Slider
-1-2,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,Changeup
-0-0,True,True,False,False,Changeup
-2-1,True,True,False,False,Sinker
-1-1,True,True,False,False,Changeup
-1-0,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-0-2,True,True,False,True,Slider
-0-2,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-3-1,False,True,True,False,Sinker
-2-1,False,True,True,False,Changeup
-1-1,False,True,True,False,Sinker
-1-0,False,True,True,False,Sinker
-0-0,False,True,True,False,Sinker
-2-2,False,True,True,False,Sinker
-1-2,False,True,True,False,Changeup
-1-2,False,True,True,False,Slider
-1-1,False,True,True,False,4-Seam Fastball
-0-1,False,True,True,False,Changeup
-0-0,False,True,True,False,Sinker
-1-2,False,True,True,True,Slider
-1-2,False,True,True,True,Sinker
-1-1,False,True,True,True,Slider
-0-1,False,True,True,True,Sinker
-0-0,False,True,True,True,Curveball
-0-1,False,True,True,True,Sinker
-0-0,False,True,True,True,Sinker
-1-2,False,True,True,True,Sinker
-1-1,False,True,True,True,Sinker
-1-0,False,True,True,True,Slider
-0-0,False,True,True,True,Curveball
-2-2,False,True,True,False,Slider
-2-1,False,True,True,False,Sinker
-1-1,False,True,True,False,Changeup
-1-0,False,True,True,False,Changeup
-0-0,False,True,True,False,Changeup
-3-1,False,True,False,True,Sinker
-2-1,False,True,False,True,Slider
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Curveball
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,True,Curveball
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Slider
-0-0,False,True,False,True,Slider
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Slider
-0-0,False,True,False,False,Slider
-1-1,True,True,False,True,Sinker
-1-0,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-0-2,True,True,False,True,Changeup
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,Sinker
-2-2,True,True,False,True,4-Seam Fastball
-2-1,True,True,False,True,Sinker
-1-1,True,True,False,True,Sinker
-0-1,True,True,False,True,Changeup
-0-0,True,True,False,True,Slider
-2-1,True,True,False,False,4-Seam Fastball
-2-0,True,True,False,False,Sinker
-1-0,True,True,False,False,Changeup
-0-0,True,True,False,False,Slider
-2-1,True,True,False,True,Sinker
-1-1,True,True,False,True,Sinker
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,Curveball
-3-2,True,True,False,True,4-Seam Fastball
-3-1,True,True,False,True,Sinker
-2-1,True,True,False,True,Sinker
-1-1,True,True,False,True,Slider
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,Sinker
-3-2,True,True,False,True,Sinker
-2-2,True,True,False,True,Curveball
-2-1,True,True,False,True,Changeup
-2-0,True,True,False,True,Sinker
-1-0,True,True,False,True,Changeup
-0-0,True,True,False,True,Sinker
-1-2,False,True,False,True,Sinker
-0-2,False,True,False,True,Curveball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,False,Changeup
-0-2,False,True,False,False,Slider
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Changeup
-1-2,False,True,False,True,Curveball
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,Slider
-2-1,False,True,False,True,Sinker
-1-1,False,True,False,True,Changeup
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-1,False,True,False,True,Curveball
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,True,Changeup
-1-1,False,True,False,True,Curveball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,True,Sinker
-2-1,False,True,False,True,Sinker
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-0-0,False,True,False,False,Sinker
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Changeup
-0-0,False,True,False,True,Sinker
-3-2,False,True,False,True,Sinker
-2-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Curveball
-0-2,False,True,False,True,Sinker
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Sinker
-3-2,False,True,False,False,Changeup
-3-1,False,True,False,False,Changeup
-2-1,False,True,False,False,4-Seam Fastball
-2-0,False,True,False,False,Sinker
-1-0,False,True,False,False,Slider
-0-0,False,True,False,False,Changeup
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,Curveball
-2-2,False,True,False,True,Changeup
-2-1,False,True,False,True,Changeup
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,Changeup
-0-0,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,True,Sinker
-2-2,False,True,False,True,Changeup
-1-2,False,True,False,True,Sinker
-0-2,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-2-1,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,Slider
-0-0,False,True,False,False,4-Seam Fastball
-2-1,False,True,False,False,Changeup
-1-1,False,True,False,False,Slider
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Changeup
-0-2,False,True,False,True,Sinker
-0-1,False,True,False,True,Changeup
-0-0,False,True,False,True,Sinker
-2-1,False,True,False,True,Changeup
-1-1,False,True,False,True,Changeup
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,False,Changeup
-1-1,False,True,False,False,Slider
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Slider
-1-1,False,True,False,True,Changeup
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,True,Sinker
-1-1,False,True,False,True,Changeup
-1-0,False,True,False,True,Changeup
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,True,Sinker
-1-2,False,True,False,True,Curveball
-1-1,False,True,False,True,Curveball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-0-0,False,True,False,False,Sinker
-1-2,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-3-1,True,True,False,True,Sinker
-3-0,True,True,False,True,Sinker
-2-0,True,True,False,True,Sinker
-1-0,True,True,False,True,Curveball
-0-0,True,True,False,True,Sinker
-2-1,False,True,False,False,Changeup
-2-0,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-3-2,False,True,True,True,Sinker
-3-2,False,True,True,True,Sinker
-2-2,False,True,True,True,Sinker
-2-1,False,True,True,True,Sinker
-1-1,False,True,True,True,Changeup
-0-1,False,True,True,True,4-Seam Fastball
-0-0,False,True,True,True,4-Seam Fastball
-1-1,True,True,True,False,4-Seam Fastball
-0-1,True,True,True,False,4-Seam Fastball
-0-0,True,True,True,False,Curveball
-0-2,True,True,True,True,Changeup
-0-2,True,True,True,True,Sinker
-0-1,True,True,True,True,Sinker
-0-0,True,True,True,True,Sinker
-3-1,True,True,True,False,Sinker
-2-1,True,True,True,False,4-Seam Fastball
-2-0,True,True,True,False,4-Seam Fastball
-1-0,True,True,True,False,Changeup
-0-0,True,True,True,False,Sinker
-3-2,True,True,True,True,Sinker
-2-2,True,True,True,True,Curveball
-1-2,True,True,True,True,Curveball
-1-1,True,True,True,True,Sinker
-1-0,True,True,True,True,Sinker
-0-0,True,True,True,True,Sinker
-3-2,True,True,True,False,Sinker
-2-2,True,True,True,False,Sinker
-2-2,True,True,True,False,Sinker
-2-1,True,True,True,False,Sinker
-1-1,True,True,True,False,Changeup
-0-1,True,True,True,False,Changeup
-0-0,True,True,True,False,Curveball
-0-2,True,True,False,False,Changeup
-0-2,True,True,False,False,Sinker
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-2-2,True,True,False,True,Sinker
-2-1,True,True,False,True,Sinker
-2-0,True,True,False,True,Sinker
-1-0,True,True,False,True,Sinker
-0-0,True,True,False,True,Curveball
-1-2,True,True,False,True,Sinker
-0-2,True,True,False,True,Sinker
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,Sinker
-0-2,True,True,False,False,Sinker
-0-2,True,True,False,False,Curveball
-0-1,True,True,False,False,Curveball
-0-0,True,True,False,False,Sinker
-2-2,True,True,False,True,Curveball
-1-2,True,True,False,True,Sinker
-0-2,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,4-Seam Fastball
-1-1,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Curveball
-0-2,True,True,False,True,Sinker
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,4-Seam Fastball
-3-2,False,True,False,False,Changeup
-3-2,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,False,Changeup
-1-2,False,True,False,False,Slider
-1-1,False,True,False,False,Sinker
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Changeup
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-0-0,False,True,False,False,Sinker
-0-2,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,True,Slider
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,Curveball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-0-2,False,True,False,True,Slider
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,False,Slider
-0-0,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Changeup
-1-1,False,True,False,True,Changeup
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-1-2,False,True,False,False,Changeup
-1-1,False,True,False,False,Slider
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Curveball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,True,Slider
-1-2,False,True,False,True,Changeup
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Sinker
-1-0,True,False,True,True,Sinker
-0-0,True,False,True,True,Curveball
-0-1,True,False,True,True,Sinker
-0-0,True,False,True,True,Sinker
-2-2,True,False,True,True,Curveball
-2-1,True,False,True,True,Curveball
-1-1,True,False,True,True,Curveball
-1-0,True,False,True,True,Sinker
-0-0,True,False,True,True,Changeup
-0-2,True,False,True,False,4-Seam Fastball
-0-1,True,False,True,False,4-Seam Fastball
-0-0,True,False,True,False,Changeup
-0-2,True,False,True,True,Curveball
-0-2,True,False,True,True,Sinker
-0-2,True,False,True,True,Sinker
-0-1,True,False,True,True,Curveball
-0-0,True,False,True,True,Sinker
-3-1,True,False,True,True,4-Seam Fastball
-3-0,True,False,True,True,Sinker
-2-0,True,False,True,True,Curveball
-1-0,True,False,True,True,Sinker
-0-0,True,False,True,True,Curveball
-2-0,True,False,False,True,Sinker
-1-0,True,False,False,True,Sinker
-0-0,True,False,False,True,Sinker
-3-1,True,False,False,False,Changeup
-3-0,True,False,False,False,Sinker
-2-0,True,False,False,False,Changeup
-1-0,True,False,False,False,Changeup
-0-0,True,False,False,False,4-Seam Fastball
-3-2,True,False,False,False,Changeup
-2-2,True,False,False,False,Changeup
-1-2,True,False,False,False,Sinker
-1-2,True,False,False,False,Changeup
-0-2,True,False,False,False,Changeup
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Changeup
-0-0,True,False,False,False,Curveball
-0-0,True,False,False,True,Curveball
-2-2,True,False,False,True,Sinker
-1-2,True,False,False,True,Changeup
-0-2,True,False,False,True,Curveball
-0-1,True,False,False,True,Curveball
-0-0,True,False,False,True,Sinker
-0-0,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,True,Sinker
-0-0,True,False,False,True,Sinker
-2-2,True,False,False,True,Sinker
-1-2,True,False,False,True,Curveball
-1-1,True,False,False,True,Changeup
-0-1,True,False,False,True,Sinker
-0-0,True,False,False,True,Curveball
-2-1,True,False,False,True,Sinker
-1-1,True,False,False,True,4-Seam Fastball
-1-0,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,Curveball
-1-1,True,False,False,False,Changeup
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Changeup
-1-2,True,False,False,False,Changeup
-1-2,True,False,False,False,Changeup
-1-2,True,False,False,False,Sinker
-1-1,True,False,False,False,Changeup
-1-0,True,False,False,False,Changeup
-0-0,True,False,False,False,Sinker
-2-2,True,False,False,True,4-Seam Fastball
-1-2,True,False,False,True,Curveball
-1-1,True,False,False,True,4-Seam Fastball
-1-0,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,4-Seam Fastball
-1-2,True,False,False,True,Sinker
-1-2,True,False,False,True,4-Seam Fastball
-0-2,True,False,False,True,Curveball
-0-2,True,False,False,True,Curveball
-0-1,True,False,False,True,Sinker
-0-0,True,False,False,True,4-Seam Fastball
-1-2,True,False,False,True,Curveball
-0-2,True,False,False,True,Slider
-0-1,True,False,False,True,Slider
-0-0,True,False,False,True,4-Seam Fastball
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Curveball
-2-2,False,True,False,True,Curveball
-2-1,False,True,False,True,Changeup
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,Changeup
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,Slider
-2-2,False,True,False,True,Changeup
-2-1,False,True,False,True,Sinker
-1-1,False,True,False,True,Curveball
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-3-1,True,False,True,False,Sinker
-2-1,True,False,True,False,Changeup
-1-1,True,False,True,False,Changeup
-0-1,True,False,True,False,Sinker
-0-0,True,False,True,False,Curveball
-0-1,True,False,True,True,Curveball
-0-0,True,False,True,True,Sinker
-0-1,True,False,True,False,Sinker
-0-0,True,False,True,False,4-Seam Fastball
-1-2,True,False,True,True,Sinker
-1-1,True,False,True,True,Curveball
-0-1,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,True,Slider
-2-2,True,False,True,False,Sinker
-2-1,True,False,True,False,4-Seam Fastball
-1-1,True,False,True,False,Changeup
-0-1,True,False,True,False,Sinker
-0-0,True,False,True,False,Curveball
-2-2,True,False,True,True,Sinker
-2-1,True,False,True,True,Curveball
-2-0,True,False,True,True,Sinker
-1-0,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,True,4-Seam Fastball
-2-2,True,False,False,True,Sinker
-1-2,True,False,False,True,Curveball
-1-2,True,False,False,True,4-Seam Fastball
-1-1,True,False,False,True,4-Seam Fastball
-0-1,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,4-Seam Fastball
-3-2,True,False,False,False,4-Seam Fastball
-2-2,True,False,False,False,Sinker
-1-2,True,False,False,False,4-Seam Fastball
-1-1,True,False,False,False,4-Seam Fastball
-1-0,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,4-Seam Fastball
-2-1,True,False,False,False,4-Seam Fastball
-1-1,True,False,False,False,4-Seam Fastball
-1-0,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Changeup
-0-1,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,Curveball
-2-2,True,False,False,False,Sinker
-2-2,True,False,False,False,Changeup
-2-2,True,False,False,False,Changeup
-2-2,True,False,False,False,4-Seam Fastball
-1-2,True,False,False,False,4-Seam Fastball
-1-1,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,Changeup
-0-0,True,False,False,False,Changeup
-0-2,True,False,False,True,Curveball
-0-1,True,False,False,True,Curveball
-0-0,True,False,False,True,Curveball
-2-2,True,False,False,False,Changeup
-1-2,True,False,False,False,Slider
-1-2,True,False,False,False,4-Seam Fastball
-1-2,True,False,False,False,4-Seam Fastball
-1-2,True,False,False,False,Changeup
-0-2,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Slider
-0-2,True,False,False,True,Curveball
-0-2,True,False,False,True,4-Seam Fastball
-0-1,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,Curveball
-0-2,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,4-Seam Fastball
-1-2,True,False,False,False,4-Seam Fastball
-0-2,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,4-Seam Fastball
-0-2,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,4-Seam Fastball
-2-2,True,False,False,True,Sinker
-1-2,True,False,False,True,Curveball
-1-2,True,False,False,True,4-Seam Fastball
-1-1,True,False,False,True,Changeup
-1-0,True,False,False,True,Sinker
-0-0,True,False,False,True,4-Seam Fastball
-2-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Slider
-1-1,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-3-2,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,Changeup
-2-1,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,False,Changeup
-1-2,False,True,False,False,Changeup
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-1-1,True,True,True,False,Changeup
-1-0,True,True,True,False,Sinker
-0-0,True,True,True,False,4-Seam Fastball
-0-2,True,True,True,False,Changeup
-0-2,True,True,True,False,4-Seam Fastball
-0-1,True,True,True,False,Changeup
-0-0,True,True,True,False,4-Seam Fastball
-0-1,True,True,True,False,Curveball
-0-0,True,True,True,False,4-Seam Fastball
-2-2,False,True,True,False,4-Seam Fastball
-1-2,False,True,True,False,Curveball
-1-2,False,True,True,False,4-Seam Fastball
-1-2,False,True,True,False,4-Seam Fastball
-1-1,False,True,True,False,Changeup
-0-1,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,4-Seam Fastball
-1-2,False,True,True,False,Changeup
-0-2,False,True,True,False,4-Seam Fastball
-0-1,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,Changeup
-0-1,False,True,True,True,Sinker
-0-0,False,True,True,True,Curveball
-1-2,False,True,False,False,Sinker
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Changeup
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,False,Changeup
-1-2,False,True,False,False,4-Seam Fastball
-0-2,False,True,False,False,Sinker
-0-1,False,True,False,False,Curveball
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,True,Sinker
-1-2,False,True,False,True,Curveball
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Curveball
-1-2,False,True,False,False,Curveball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Curveball
-3-2,False,True,False,False,Sinker
-3-2,False,True,False,False,Curveball
-2-2,False,True,False,False,Changeup
-2-1,False,True,False,False,4-Seam Fastball
-2-0,False,True,False,False,Changeup
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Changeup
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,Changeup
-0-0,False,True,False,True,4-Seam Fastball
-2-0,False,True,False,False,Changeup
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,True,Sinker
-3-2,False,True,False,True,Changeup
-3-2,False,True,False,True,Sinker
-3-1,False,True,False,True,Sinker
-2-1,False,True,False,True,Sinker
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-1-1,False,True,False,False,Sinker
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,4-Seam Fastball
-3-2,False,True,False,False,Changeup
-2-2,False,True,False,False,Sinker
-2-1,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,Curveball
-0-0,False,True,False,False,Changeup
-3-1,False,True,False,True,Sinker
-3-0,False,True,False,True,Sinker
-2-0,False,True,False,True,Sinker
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,False,4-Seam Fastball
-0-2,False,True,False,False,Changeup
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-2-1,False,True,False,True,Sinker
-1-1,False,True,False,True,Slider
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,False,Curveball
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Curveball
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Changeup
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,False,Curveball
-0-1,False,True,False,False,Curveball
-0-0,False,True,False,False,Sinker
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,4-Seam Fastball
-3-2,True,False,True,True,Sinker
-3-1,True,False,True,True,Sinker
-2-1,True,False,True,True,Curveball
-2-0,True,False,True,True,Sinker
-1-0,True,False,True,True,Sinker
-0-0,True,False,True,True,Curveball
-0-1,True,False,True,False,Changeup
-0-0,True,False,True,False,Sinker
-3-1,True,False,True,False,Sinker
-3-0,True,False,True,False,Sinker
-2-0,True,False,True,False,Sinker
-1-0,True,False,True,False,Sinker
-0-0,True,False,True,False,Curveball
-1-2,True,True,False,False,Sinker
-0-2,True,True,False,False,Curveball
-0-1,True,True,False,False,Sinker
-0-0,True,True,False,False,Changeup
-3-2,True,True,False,False,Changeup
-3-1,True,True,False,False,4-Seam Fastball
-2-1,True,True,False,False,Sinker
-2-0,True,True,False,False,Changeup
-1-0,True,True,False,False,Changeup
-0-0,True,True,False,False,Sinker
-2-2,True,True,False,True,Sinker
-1-2,True,True,False,True,Changeup
-1-1,True,True,False,True,Changeup
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,Curveball
-3-2,False,True,False,False,Changeup
-2-2,False,True,False,False,Curveball
-2-1,False,True,False,False,Changeup
-2-0,False,True,False,False,Sinker
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-0-2,False,True,False,False,Sinker
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Curveball
-3-2,False,True,False,True,Sinker
-2-2,False,True,False,True,Sinker
-1-2,False,True,False,True,Curveball
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,True,Slider
-1-2,False,True,False,True,Changeup
-1-2,False,True,False,True,Curveball
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Curveball
-2-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Changeup
-1-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Curveball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Curveball
-2-1,False,True,False,False,4-Seam Fastball
-2-0,False,True,False,False,Sinker
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Changeup
-1-1,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Changeup
-0-2,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Slider
-3-2,True,True,False,False,4-Seam Fastball
-3-1,True,True,False,False,Changeup
-3-0,True,True,False,False,Sinker
-2-0,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,Curveball
-0-0,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,False,Changeup
-1-2,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,False,Changeup
-1-0,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Changeup
-3-2,True,True,False,True,4-Seam Fastball
-3-1,True,True,False,True,4-Seam Fastball
-2-1,True,True,False,True,Sinker
-1-1,True,True,False,True,Slider
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,4-Seam Fastball
-0-2,True,True,False,True,Slider
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,Slider
-1-2,True,True,False,False,Changeup
-0-2,True,True,False,False,4-Seam Fastball
-0-2,True,True,False,False,Changeup
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,Changeup
-0-0,True,True,False,False,Curveball
-0-0,True,False,False,False,4-Seam Fastball
-0-2,True,False,False,False,Changeup
-0-1,True,False,False,False,Curveball
-0-0,True,False,False,False,Changeup
-1-2,True,False,False,False,Sinker
-0-2,True,False,False,False,4-Seam Fastball
-0-2,True,False,False,False,Changeup
-0-2,True,False,False,False,Changeup
-0-2,True,False,False,False,4-Seam Fastball
-0-2,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,Sinker
-0-0,True,False,False,False,Sinker
-2-1,True,True,False,True,Sinker
-1-1,True,True,False,True,4-Seam Fastball
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,Sinker
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,Changeup
-0-0,True,True,False,False,Curveball
-0-2,True,True,False,False,Changeup
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-3-0,True,True,True,False,Sinker
-2-0,True,True,True,False,Changeup
-1-0,True,True,True,False,4-Seam Fastball
-0-0,True,True,True,False,Changeup
-1-0,True,True,True,True,4-Seam Fastball
-0-0,True,True,True,True,Curveball
-1-1,True,True,True,True,Changeup
-1-0,True,True,True,True,Curveball
-0-0,True,True,True,True,Curveball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Curveball
-1-2,False,True,False,True,Curveball
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,Curveball
-1-2,False,True,False,True,Curveball
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Changeup
-0-0,False,True,False,True,Curveball
-3-2,True,True,False,True,Curveball
-3-1,True,True,False,True,4-Seam Fastball
-2-1,True,True,False,True,4-Seam Fastball
-1-1,True,True,False,True,Changeup
-0-1,True,True,False,True,Changeup
-0-0,True,True,False,True,Changeup
-1-2,False,False,False,True,Curveball
-0-2,False,False,False,True,Curveball
-0-1,False,False,False,True,4-Seam Fastball
-0-0,False,False,False,True,4-Seam Fastball
-0-2,False,False,False,False,Changeup
-0-2,False,False,False,False,Changeup
-0-1,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,False,Curveball
-2-2,False,False,False,False,Changeup
-1-2,False,False,False,False,Sinker
-0-2,False,False,False,False,4-Seam Fastball
-0-2,False,False,False,False,Curveball
-0-1,False,False,False,False,Changeup
-0-0,False,False,False,False,Sinker
-1-1,False,False,False,False,Sinker
-0-1,False,False,False,False,Curveball
-0-0,False,False,False,False,Changeup
-2-2,False,False,False,True,4-Seam Fastball
-1-2,False,False,False,True,Changeup
-1-1,False,False,False,True,Curveball
-0-1,False,False,False,True,Curveball
-0-0,False,False,False,True,Sinker
-1-0,False,False,False,True,Sinker
-0-0,False,False,False,True,Curveball
-0-2,False,False,False,True,Slider
-0-1,False,False,False,True,Curveball
-0-0,False,False,False,True,4-Seam Fastball
-3-2,False,False,False,True,Changeup
-2-2,False,False,False,True,Curveball
-2-2,False,False,False,True,4-Seam Fastball
-1-2,False,False,False,True,Changeup
-1-1,False,False,False,True,Changeup
-1-0,False,False,False,True,Sinker
-0-0,False,False,False,True,Slider
-0-0,False,False,False,True,4-Seam Fastball
-3-2,False,False,False,True,Changeup
-2-2,False,False,False,True,Changeup
-2-1,False,False,False,True,Sinker
-2-0,False,False,False,True,Changeup
-1-0,False,False,False,True,Slider
-0-0,False,False,False,True,Slider
-1-0,False,False,False,False,Changeup
-0-0,False,False,False,False,Sinker
-1-2,False,False,False,False,Changeup
-0-2,False,False,False,False,Changeup
-0-2,False,False,False,False,Sinker
-0-1,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,False,Changeup
-0-1,False,False,False,False,Sinker
-0-0,False,False,False,False,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Sinker
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Slider
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,True,Changeup
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-2-0,False,True,False,False,Sinker
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,False,Sinker
-2-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Changeup
-1-1,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Curveball
-0-0,False,True,False,False,Sinker
-1-1,False,True,True,False,Sinker
-1-0,False,True,True,False,Sinker
-0-0,False,True,True,False,Changeup
-0-0,False,True,True,True,Sinker
-1-0,False,True,True,True,4-Seam Fastball
-0-0,False,True,True,True,4-Seam Fastball
-3-1,False,True,True,True,4-Seam Fastball
-3-0,False,True,True,True,4-Seam Fastball
-2-0,False,True,True,True,Changeup
-1-0,False,True,True,True,4-Seam Fastball
-0-0,False,True,True,True,Sinker
-1-0,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,Curveball
-0-1,False,True,True,True,4-Seam Fastball
-0-0,False,True,True,True,Slider
-1-1,False,True,True,True,4-Seam Fastball
-0-1,False,True,True,True,Changeup
-0-0,False,True,True,True,4-Seam Fastball
-1-2,False,True,True,False,Changeup
-1-1,False,True,True,False,4-Seam Fastball
-1-0,False,True,True,False,Changeup
-0-0,False,True,True,False,Sinker
-0-0,False,True,True,True,4-Seam Fastball
-3-1,False,True,True,False,4-Seam Fastball
-3-0,False,True,True,False,4-Seam Fastball
-2-0,False,True,True,False,4-Seam Fastball
-1-0,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,Changeup
-0-0,False,True,False,True,Sinker
-3-1,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,True,Slider
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,Changeup
-0-0,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,True,Sinker
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,Slider
-0-0,False,True,False,False,Changeup
-2-1,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Slider
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,False,Slider
-0-2,False,True,False,False,Changeup
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,False,Changeup
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Curveball
-1-1,False,True,False,False,Sinker
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,4-Seam Fastball
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-1-1,True,False,True,False,Curveball
-1-0,True,False,True,False,4-Seam Fastball
-0-0,True,False,True,False,Curveball
-2-2,True,False,True,True,Sinker
-1-2,True,False,True,True,Curveball
-0-2,True,False,True,True,4-Seam Fastball
-0-2,True,False,True,True,Sinker
-0-1,True,False,True,True,Curveball
-0-0,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,False,Sinker
-2-2,True,False,True,True,Sinker
-1-2,True,False,True,True,4-Seam Fastball
-1-1,True,False,True,True,4-Seam Fastball
-1-0,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,True,Sinker
-0-2,True,False,True,True,Sinker
-0-2,True,False,True,True,Changeup
-0-1,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,True,Sinker
-0-0,True,False,True,False,Sinker
-2-1,True,False,True,True,Sinker
-2-0,True,False,True,True,Sinker
-1-0,True,False,True,True,Curveball
-0-0,True,False,True,True,Sinker
-1-2,True,False,True,False,Changeup
-1-1,True,False,True,False,4-Seam Fastball
-0-1,True,False,True,False,Curveball
-0-0,True,False,True,False,Changeup
-3-1,True,False,True,True,Sinker
-2-1,True,False,True,True,Changeup
-2-0,True,False,True,True,Sinker
-1-0,True,False,True,True,Sinker
-0-0,True,False,True,True,Curveball
-0-2,True,False,True,False,Sinker
-0-1,True,False,True,False,Changeup
-0-0,True,False,True,False,Sinker
-3-2,True,False,True,True,Changeup
-2-2,True,False,True,True,Changeup
-2-1,True,False,True,True,Sinker
-1-1,True,False,True,True,Sinker
-1-0,True,False,True,True,Sinker
-0-0,True,False,True,True,Sinker
-0-0,True,False,True,False,Changeup
-3-2,True,False,False,True,Sinker
-3-1,True,False,False,True,Changeup
-3-0,True,False,False,True,4-Seam Fastball
-2-0,True,False,False,True,Sinker
-1-0,True,False,False,True,Sinker
-0-0,True,False,False,True,Curveball
-1-1,True,False,False,True,Curveball
-0-1,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,Sinker
-0-1,True,False,False,False,Sinker
-0-0,True,False,False,False,Changeup
-0-0,True,False,False,True,Changeup
-2-1,True,False,False,False,Changeup
-1-1,True,False,False,False,4-Seam Fastball
-1-0,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Curveball
-0-0,True,False,False,True,4-Seam Fastball
-1-0,True,False,False,False,Changeup
-0-0,True,False,False,False,Curveball
-1-2,True,False,False,True,4-Seam Fastball
-0-2,True,False,False,True,4-Seam Fastball
-0-1,True,False,False,True,Curveball
-0-0,True,False,False,True,4-Seam Fastball
-1-1,True,False,False,False,Sinker
-0-1,True,False,False,False,Curveball
-0-0,True,False,False,False,Sinker
-3-2,True,False,False,True,Changeup
-2-2,True,False,False,True,4-Seam Fastball
-2-1,True,False,False,True,Sinker
-2-0,True,False,False,True,Sinker
-1-0,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,Sinker
-2-2,True,False,False,True,4-Seam Fastball
-1-2,True,False,False,True,Slider
-1-1,True,False,False,True,Changeup
-0-1,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,4-Seam Fastball
-0-2,True,False,False,False,4-Seam Fastball
-0-1,True,False,False,False,Changeup
-0-0,True,False,False,False,Sinker
-3-2,True,False,False,True,Sinker
-2-2,True,False,False,True,Sinker
-2-2,True,False,False,True,Changeup
-1-2,True,False,False,True,Changeup
-0-2,True,False,False,True,4-Seam Fastball
-0-1,True,False,False,True,Curveball
-0-0,True,False,False,True,4-Seam Fastball
-3-2,True,False,False,False,4-Seam Fastball
-2-2,True,False,False,False,Changeup
-2-1,True,False,False,False,Changeup
-1-1,True,False,False,False,4-Seam Fastball
-1-0,True,False,False,False,Changeup
-0-0,True,False,False,False,Sinker
-1-1,True,False,False,True,Sinker
-0-1,True,False,False,True,4-Seam Fastball
-0-0,True,False,False,True,4-Seam Fastball
-1-1,True,False,False,False,4-Seam Fastball
-1-0,True,False,False,False,Sinker
-0-0,True,False,False,False,4-Seam Fastball
-0-1,False,False,True,False,Changeup
-0-0,False,False,True,False,Changeup
-0-2,False,False,True,False,Sinker
-0-1,False,False,True,False,Changeup
-0-0,False,False,True,False,Changeup
-3-2,False,False,True,True,4-Seam Fastball
-3-2,False,False,True,True,Sinker
-3-2,False,False,True,True,Changeup
-2-2,False,False,True,True,Changeup
-1-2,False,False,True,True,4-Seam Fastball
-1-2,False,False,True,True,Changeup
-1-1,False,False,True,True,4-Seam Fastball
-1-0,False,False,True,True,Changeup
-0-0,False,False,True,True,Changeup
-2-2,False,False,True,True,Changeup
-2-1,False,False,True,True,Sinker
-1-1,False,False,True,True,Sinker
-1-0,False,False,True,True,Changeup
-0-0,False,False,True,True,4-Seam Fastball
-1-1,False,True,True,True,Sinker
-0-1,False,True,True,True,Changeup
-0-0,False,True,True,True,Sinker
-0-0,False,True,True,False,Sinker
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Changeup
-2-2,False,True,False,True,Sinker
-2-1,False,True,False,True,Changeup
-1-1,False,True,False,True,Changeup
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-0-1,False,True,False,True,Changeup
-0-0,False,True,False,True,Curveball
-0-0,False,True,False,False,Sinker
-1-1,False,True,False,False,Sinker
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Changeup
-2-2,False,True,False,True,Changeup
-1-2,False,True,False,True,Changeup
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-1-2,False,True,False,True,Slider
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,False,Changeup
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Curveball
-2-2,False,True,False,True,Changeup
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Curveball
-1-1,True,True,False,True,Sinker
-1-0,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-3-1,True,True,False,True,Sinker
-2-1,True,True,False,True,Slider
-2-0,True,True,False,True,4-Seam Fastball
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,4-Seam Fastball
-1-2,True,True,False,False,Curveball
-0-2,True,True,False,False,4-Seam Fastball
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-1-2,True,True,False,False,Curveball
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,Sinker
-0-0,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,Curveball
-2-2,True,True,False,True,Sinker
-2-1,True,True,False,True,Sinker
-1-1,True,True,False,True,Curveball
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-0-2,True,True,False,True,Sinker
-0-2,True,True,False,True,Slider
-0-2,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Slider
-0-2,True,True,False,False,Changeup
-0-2,True,True,False,False,Sinker
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-3-2,True,True,False,True,Slider
-2-2,True,True,False,True,Slider
-2-1,True,True,False,True,Sinker
-1-1,True,True,False,True,Sinker
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-0-2,True,True,True,True,Sinker
-0-1,True,True,True,True,Curveball
-0-0,True,True,True,True,Sinker
-1-1,True,True,True,False,Sinker
-1-0,True,True,True,False,Curveball
-0-0,True,True,True,False,Sinker
-0-0,True,True,True,True,Sinker
-0-2,True,True,True,True,Sinker
-0-1,True,True,True,False,Sinker
-0-0,True,True,True,False,Curveball
-1-2,True,True,True,False,Sinker
-1-1,True,True,True,False,Changeup
-1-0,True,True,True,False,Sinker
-0-0,True,True,True,False,Curveball
-1-1,True,True,True,False,Sinker
-1-0,True,True,True,False,Changeup
-0-0,True,True,True,False,Curveball
-1-1,True,True,True,False,Changeup
-0-1,True,True,True,False,Sinker
-0-0,True,True,True,False,Changeup
-2-2,True,True,True,True,Curveball
-2-1,True,True,True,True,Changeup
-1-1,True,True,True,True,Sinker
-0-1,True,True,True,True,Slider
-0-0,True,True,True,True,Sinker
-2-2,True,True,True,True,4-Seam Fastball
-1-2,True,True,True,True,Sinker
-1-1,True,True,True,True,Sinker
-0-1,True,True,True,True,Curveball
-0-0,True,True,True,True,Sinker
-0-0,True,True,True,True,Curveball
-1-1,True,True,True,False,Sinker
-1-0,True,True,True,False,Curveball
-0-0,True,True,True,False,Sinker
-2-1,True,True,True,True,Sinker
-1-1,True,True,True,True,Sinker
-0-1,True,True,True,True,Curveball
-0-0,True,True,True,True,Sinker
-1-2,True,True,True,False,Sinker
-1-2,True,True,True,False,Changeup
-1-1,True,True,True,False,Changeup
-1-0,True,True,True,False,Changeup
-0-0,True,True,True,False,Curveball
-1-2,True,True,False,True,4-Seam Fastball
-0-2,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-1-1,True,True,False,True,Sinker
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,Slider
-0-2,True,True,False,False,Changeup
-0-2,True,True,False,False,Changeup
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Changeup
-1-2,True,True,False,True,Changeup
-1-2,True,True,False,True,4-Seam Fastball
-1-2,True,True,False,True,Sinker
-1-1,True,True,False,True,Curveball
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,Sinker
-2-2,True,True,False,True,Sinker
-1-2,True,True,False,True,Slider
-0-2,True,True,False,True,4-Seam Fastball
-0-2,True,True,False,True,Sinker
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-3-0,False,True,False,True,4-Seam Fastball
-2-0,False,True,False,True,Sinker
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Curveball
-2-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Curveball
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Sinker
-2-1,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,True,Slider
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,False,Sinker
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,Curveball
-0-0,False,True,False,False,Sinker
-0-2,False,True,False,True,Curveball
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Curveball
-1-2,False,True,False,False,Changeup
-0-2,False,True,False,False,Changeup
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-2-2,False,False,False,True,Sinker
-1-2,False,False,False,True,Curveball
-0-2,False,False,False,True,4-Seam Fastball
-0-2,False,False,False,True,Curveball
-0-2,False,False,False,True,Sinker
-0-1,False,False,False,True,4-Seam Fastball
-0-0,False,False,False,True,Curveball
-2-2,False,False,False,False,4-Seam Fastball
-2-1,False,False,False,False,4-Seam Fastball
-1-1,False,False,False,False,Changeup
-0-1,False,False,False,False,Changeup
-0-0,False,False,False,False,Sinker
-0-2,False,False,False,False,Sinker
-0-1,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,False,4-Seam Fastball
-3-2,False,False,False,False,4-Seam Fastball
-3-1,False,False,False,False,Sinker
-3-0,False,False,False,False,Sinker
-2-0,False,False,False,False,Changeup
-1-0,False,False,False,False,Changeup
-0-0,False,False,False,False,Curveball
-0-1,False,False,False,False,Slider
-0-0,False,False,False,False,4-Seam Fastball
-3-2,False,False,False,False,Changeup
-2-2,False,False,False,False,4-Seam Fastball
-2-2,False,False,False,False,Sinker
-1-2,False,False,False,False,4-Seam Fastball
-1-1,False,False,False,False,4-Seam Fastball
-0-1,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,True,Sinker
-3-2,False,True,False,False,Sinker
-3-2,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Slider
-1-1,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,False,Sinker
-1-1,False,True,False,False,Sinker
-0-1,False,True,False,False,Slider
-0-0,False,True,False,False,Sinker
-0-1,False,False,False,True,Slider
-0-0,False,False,False,True,Slider
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Changeup
-1-1,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-0-2,False,True,False,False,Changeup
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,False,Changeup
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Slider
-3-2,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,False,Slider
-2-2,False,True,False,False,Sinker
-2-1,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,False,Curveball
-1-1,False,True,False,False,Curveball
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,True,Curveball
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,Slider
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,False,Changeup
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-1-1,False,True,False,False,Slider
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Curveball
-2-2,False,True,False,False,Curveball
-1-2,False,True,False,False,4-Seam Fastball
-0-2,False,True,False,False,Sinker
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,Sinker
-1-2,False,True,False,True,Slider
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-1,False,False,False,False,Changeup
-0-0,False,False,False,False,Slider
-2-2,False,False,False,False,Changeup
-1-2,False,False,False,False,4-Seam Fastball
-1-1,False,False,False,False,Changeup
-1-0,False,False,False,False,Changeup
-0-0,False,False,False,False,Curveball
-0-0,False,False,False,True,Slider
-2-2,False,False,False,True,Slider
-1-2,False,False,False,True,Curveball
-1-1,False,False,False,True,Slider
-0-1,False,False,False,True,Curveball
-0-0,False,False,False,True,Curveball
-0-1,False,False,False,True,4-Seam Fastball
-0-0,False,False,False,True,Slider
-0-0,False,False,False,True,4-Seam Fastball
-3-2,False,False,False,True,Changeup
-2-2,False,False,False,True,4-Seam Fastball
-1-2,False,False,False,True,Curveball
-1-2,False,False,False,True,Sinker
-1-1,False,False,False,True,4-Seam Fastball
-1-0,False,False,False,True,Changeup
-0-0,False,False,False,True,Curveball
-3-2,False,False,False,False,Slider
-3-2,False,False,False,False,Sinker
-3-2,False,False,False,False,4-Seam Fastball
-3-1,False,False,False,False,Changeup
-2-1,False,False,False,False,4-Seam Fastball
-1-1,False,False,False,False,Changeup
-1-0,False,False,False,False,Changeup
-0-0,False,False,False,False,Curveball
-0-1,False,False,False,True,4-Seam Fastball
-0-0,False,False,False,True,4-Seam Fastball
-0-2,False,False,False,False,Changeup
-0-1,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,False,4-Seam Fastball
-0-1,False,False,False,False,4-Seam Fastball
-0-0,False,False,False,False,Changeup
-0-0,False,True,False,True,Slider
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Slider
-3-2,False,True,False,True,Slider
-2-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,Curveball
-0-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Slider
-0-2,False,True,False,False,Slider
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-1-2,True,True,False,False,4-Seam Fastball
-0-2,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,Sinker
-2-2,True,True,False,False,Changeup
-1-2,True,True,False,False,Slider
-1-1,True,True,False,False,4-Seam Fastball
-0-1,True,True,False,False,4-Seam Fastball
-0-0,True,True,False,False,4-Seam Fastball
-0-2,True,True,False,True,Slider
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,4-Seam Fastball
-3-1,True,True,False,True,Sinker
-2-1,True,True,False,True,4-Seam Fastball
-1-1,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,Curveball
-0-2,True,True,False,True,Slider
-0-2,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-3-2,True,True,False,True,4-Seam Fastball
-2-2,True,True,False,True,4-Seam Fastball
-2-2,True,True,False,True,Sinker
-1-2,True,True,False,True,4-Seam Fastball
-1-1,True,True,False,True,Changeup
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-2-2,True,True,False,True,Sinker
-2-1,True,True,False,True,4-Seam Fastball
-2-0,True,True,False,True,4-Seam Fastball
-1-0,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,Slider
-3-2,True,True,False,False,4-Seam Fastball
-2-2,True,True,False,False,4-Seam Fastball
-2-1,True,True,False,False,4-Seam Fastball
-2-0,True,True,False,False,4-Seam Fastball
-1-0,True,True,False,False,Sinker
-0-0,True,True,False,False,Sinker
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Changeup
-0-2,False,True,False,False,Changeup
-0-2,False,True,False,False,Changeup
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,True,Changeup
-3-2,False,True,False,True,Sinker
-3-1,False,True,False,True,Sinker
-2-1,False,True,False,True,Slider
-2-0,False,True,False,True,Slider
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,Sinker
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,False,Changeup
-1-2,False,True,False,False,Slider
-1-1,False,True,False,False,Sinker
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-1-1,False,True,False,True,Slider
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-0-0,False,True,False,False,Sinker
-0-2,True,True,False,True,Slider
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-3-2,True,True,False,False,4-Seam Fastball
-2-2,True,True,False,False,Curveball
-1-2,True,True,False,False,4-Seam Fastball
-1-1,True,True,False,False,Changeup
-1-0,True,True,False,False,Changeup
-0-0,True,True,False,False,Sinker
-0-0,False,True,False,False,Changeup
-1-1,True,True,False,True,Sinker
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,Sinker
-3-2,True,True,False,True,Slider
-2-2,True,True,False,True,Sinker
-1-2,True,True,False,True,4-Seam Fastball
-0-2,True,True,False,True,Sinker
-0-1,True,True,False,True,Sinker
-0-0,True,True,False,True,Slider
-1-1,True,False,False,False,4-Seam Fastball
-1-0,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Sinker
-3-2,True,False,False,True,Slider
-2-2,True,False,False,True,4-Seam Fastball
-2-2,True,False,False,True,Changeup
-2-1,True,False,False,True,4-Seam Fastball
-1-1,True,False,False,True,4-Seam Fastball
-0-1,True,False,False,True,Changeup
-0-0,True,False,False,True,4-Seam Fastball
-3-2,True,False,False,True,Sinker
-2-2,True,False,False,True,Slider
-1-2,True,False,False,True,Sinker
-1-1,True,False,False,True,Sinker
-0-1,True,False,False,True,Sinker
-0-0,True,False,False,True,Sinker
-3-2,True,False,False,True,Sinker
-2-2,True,False,False,True,Sinker
-1-2,True,False,False,True,Slider
-1-1,True,False,False,True,Sinker
-1-0,True,False,False,True,Sinker
-0-0,True,False,False,True,4-Seam Fastball
-0-2,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-0-2,False,True,False,False,Sinker
-0-2,False,True,False,False,4-Seam Fastball
-0-1,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-2-1,False,True,False,False,Sinker
-2-0,False,True,False,False,Sinker
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Curveball
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-3-2,False,True,False,True,Slider
-2-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Slider
-1-1,False,True,False,True,Slider
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-2,False,True,False,False,Changeup
-0-2,False,True,False,False,Changeup
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Sinker
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-0-2,False,True,False,True,Slider
-0-2,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-1-2,True,False,True,True,4-Seam Fastball
-0-2,True,False,True,True,Changeup
-0-1,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,True,Slider
-1-1,True,False,True,True,4-Seam Fastball
-1-0,True,False,True,True,Sinker
-0-0,True,False,True,True,Sinker
-1-2,True,False,True,True,Slider
-0-2,True,False,True,True,Slider
-0-1,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,True,Sinker
-0-2,True,False,True,True,Slider
-0-1,True,False,True,True,4-Seam Fastball
-0-0,True,False,True,True,Sinker
-1-2,True,False,True,False,Changeup
-1-1,True,False,True,False,4-Seam Fastball
-0-1,True,False,True,False,Sinker
-0-0,True,False,True,False,Sinker
-1-2,True,False,True,True,Slider
-0-2,True,False,True,True,4-Seam Fastball
-0-1,True,False,True,True,Sinker
-0-0,True,False,True,True,Slider
-1-2,True,False,True,False,Changeup
-1-2,True,False,True,False,4-Seam Fastball
-1-2,True,False,True,False,4-Seam Fastball
-1-2,True,False,True,False,4-Seam Fastball
-0-2,True,False,True,False,4-Seam Fastball
-0-1,True,False,True,False,Slider
-0-0,True,False,True,False,Sinker
-0-0,True,False,True,False,Changeup
-1-2,True,False,True,False,Changeup
-1-1,True,False,True,False,Sinker
-1-0,True,False,True,False,Sinker
-0-0,True,False,True,False,Sinker
-1-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Slider
-1-2,False,True,False,True,Changeup
-1-2,False,True,False,True,Sinker
-1-2,False,True,False,True,Changeup
-1-1,False,True,False,True,Sinker
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,True,Slider
-1-2,False,True,False,True,Sinker
-1-1,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,Sinker
-0-0,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,Sinker
-2-1,False,True,False,True,Changeup
-2-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Curveball
-2-2,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,True,Sinker
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Slider
-0-0,False,True,False,False,Sinker
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,Slider
-0-0,False,True,False,False,Sinker
-0-0,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-1-1,False,True,False,True,Sinker
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,Changeup
-2-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Sinker
-2-1,False,True,False,True,Sinker
-2-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Sinker
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Changeup
-0-2,False,True,False,True,Changeup
-0-1,False,True,False,True,Sinker
-0-0,False,True,False,True,Sinker
-2-2,False,True,False,False,Changeup
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Slider
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-3-2,False,True,False,False,Changeup
-2-2,False,True,False,False,Changeup
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Changeup
-0-1,False,True,False,False,Sinker
-0-0,False,True,False,False,Sinker
-1-0,False,True,True,True,Slider
-0-0,False,True,True,True,Slider
-1-2,False,True,True,True,Slider
-1-1,False,True,True,True,4-Seam Fastball
-1-0,False,True,True,True,Slider
-0-0,False,True,True,True,Curveball
-2-1,False,True,True,False,Changeup
-1-1,False,True,True,False,4-Seam Fastball
-0-1,False,True,True,False,4-Seam Fastball
-0-0,False,True,True,False,Changeup
-0-0,False,True,True,True,Curveball
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Curveball
-0-0,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,False,Changeup
-1-2,False,True,False,False,4-Seam Fastball
-1-1,False,True,False,False,Sinker
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Changeup
-3-2,False,True,False,True,4-Seam Fastball
-3-2,False,True,False,True,Slider
-3-2,False,True,False,True,Slider
-3-2,False,True,False,True,Sinker
-3-2,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Slider
-1-1,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-3-2,False,True,False,True,Changeup
-3-1,False,True,False,True,4-Seam Fastball
-3-0,False,True,False,True,4-Seam Fastball
-2-0,False,True,False,True,Slider
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,False,4-Seam Fastball
-1-2,False,True,False,False,Curveball
-1-1,False,True,False,False,Sinker
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Changeup
-2-2,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,4-Seam Fastball
-2-1,False,True,False,True,Slider
-2-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,Curveball
-0-0,False,True,False,True,Slider
-3-2,False,True,False,False,4-Seam Fastball
-3-2,False,True,False,False,4-Seam Fastball
-3-2,False,True,False,False,4-Seam Fastball
-2-2,False,True,False,False,Changeup
-2-2,False,True,False,False,Curveball
-1-1,False,True,False,False,Curveball
-1-0,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Changeup
-3-2,False,True,False,True,4-Seam Fastball
-3-2,False,True,False,True,4-Seam Fastball
-2-2,False,True,False,True,Slider
-1-2,False,True,False,True,Changeup
-1-1,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Slider
-0-2,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-0-1,False,True,False,False,4-Seam Fastball
-0-0,False,True,False,False,Curveball
-1-2,False,True,False,True,Curveball
-0-2,False,True,False,True,Slider
-0-1,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-3-0,False,True,False,True,4-Seam Fastball
-2-0,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-3-1,False,True,False,False,Changeup
-3-0,False,True,False,False,4-Seam Fastball
-2-0,False,True,False,False,Sinker
-1-0,False,True,False,False,Changeup
-0-0,False,True,False,False,Sinker
-1-2,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,Changeup
-1-1,False,True,False,True,Slider
-1-0,False,True,False,True,4-Seam Fastball
-0-0,False,True,False,True,4-Seam Fastball
-1-2,False,True,False,True,4-Seam Fastball
-1-1,False,True,False,True,4-Seam Fastball
-1-0,False,True,False,True,Slider
-0-0,False,True,False,True,4-Seam Fastball
-3-2,False,True,False,False,4-Seam Fastball
-3-1,False,True,False,False,Sinker
-2-1,False,True,False,False,4-Seam Fastball
-2-0,False,True,False,False,4-Seam Fastball
-1-0,False,True,False,False,Sinker
-0-0,False,True,False,False,4-Seam Fastball
-0-2,False,True,True,True,4-Seam Fastball
-0-2,False,True,True,True,Changeup
-0-1,False,True,True,True,Changeup
-0-0,False,True,True,True,Sinker
-0-2,True,True,True,True,4-Seam Fastball
-0-2,True,True,True,True,Changeup
-0-2,True,True,True,True,4-Seam Fastball
-0-2,True,True,True,True,Changeup
-0-1,True,True,True,True,Changeup
-0-0,True,True,True,True,Changeup
-1-0,True,True,True,True,Slider
-0-0,True,True,True,True,Slider
-1-2,True,True,True,False,Changeup
-1-2,True,True,True,False,4-Seam Fastball
-0-2,True,True,True,False,Slider
-0-1,True,True,True,False,Changeup
-0-0,True,True,True,False,Curveball
-3-2,True,True,False,True,4-Seam Fastball
-3-2,True,True,False,True,Changeup
-2-2,True,True,False,True,Slider
-1-2,True,True,False,True,4-Seam Fastball
-1-2,True,True,False,True,Changeup
-0-2,True,True,False,True,Changeup
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,Slider
-2-2,True,True,False,True,Changeup
-2-1,True,True,False,True,4-Seam Fastball
-1-1,True,True,False,True,Sinker
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,4-Seam Fastball
-1-0,True,True,False,False,Changeup
-0-0,True,True,False,False,Curveball
-0-2,True,True,False,True,Slider
-0-1,True,True,False,True,4-Seam Fastball
-0-0,True,True,False,True,4-Seam Fastball
-1-1,True,True,False,True,4-Seam Fastball
-1-0,True,True,False,True,Sinker
-0-0,True,True,False,True,4-Seam Fastball
-2-1,True,True,False,True,4-Seam Fastball
-1-1,True,True,False,True,4-Seam Fastball
-0-1,True,True,False,True,Curveball
-0-0,True,True,False,True,Slider
-0-1,True,True,False,True,Slider
-0-0,True,True,False,True,Curveball
-1-0,True,True,False,True,Sinker
-0-0,True,True,False,True,Sinker
-1-1,True,True,False,False,Sinker
-1-0,True,True,False,False,Slider
-0-0,True,True,False,False,4-Seam Fastball
-2-2,True,True,False,True,4-Seam Fastball
-2-1,True,True,False,True,4-Seam Fastball
-2-0,True,True,False,True,Changeup
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,Changeup
-3-2,True,True,False,True,Changeup
-3-1,True,True,False,True,Sinker
-3-0,True,True,False,True,Sinker
-2-0,True,True,False,True,Sinker
-1-0,True,True,False,True,Sinker
-0-0,True,True,False,True,Slider
-0-2,True,True,False,False,Sinker
-0-1,True,True,False,False,Curveball
-0-0,True,True,False,False,4-Seam Fastball
-0-1,True,False,False,True,Sinker
-0-0,True,False,False,True,4-Seam Fastball
-1-2,True,False,False,True,Sinker
-1-1,True,False,False,True,4-Seam Fastball
-1-0,True,False,False,True,Sinker
-0-0,True,False,False,True,4-Seam Fastball
-1-2,True,False,False,True,Sinker
-1-1,True,False,False,True,4-Seam Fastball
-0-1,True,False,False,True,Sinker
-0-0,True,False,False,True,Slider
-3-1,True,False,False,True,Sinker
-2-1,True,False,False,True,Slider
-1-1,True,False,False,True,Sinker
-1-0,True,False,False,True,Sinker
-0-0,True,False,False,True,4-Seam Fastball
-3-2,True,True,False,True,Changeup
-3-1,True,True,False,True,Changeup
-3-0,True,True,False,True,Sinker
-2-0,True,True,False,True,4-Seam Fastball
-1-0,True,True,False,True,Slider
-0-0,True,True,False,True,Slider
-1-1,True,False,False,False,Changeup
-0-1,True,False,False,False,4-Seam Fastball
-0-0,True,False,False,False,Curveball
-1-0,True,False,False,True,Sinker
-0-0,True,False,False,True,Sinker
-2-2,True,False,False,True,Slider
-2-2,True,False,False,True,Slider
-2-2,True,False,False,True,4-Seam Fastball
-1-2,True,False,False,True,4-Seam Fastball
-1-1,True,False,False,True,Sinker
-1-0,True,False,False,True,Slider
-0-0,True,False,False,True,4-Seam Fastball
-3-2,True,False,False,False,Slider
-2-2,True,False,False,False,Sinker
-1-2,True,False,False,False,Sinker
-1-2,True,False,False,False,Slider
-1-1,True,False,False,False,Changeup
-0-1,True,False,False,False,Sinker
-0-0,True,False,False,False,4-Seam Fastball
+2-1,True,True,True,True,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+1-2,True,True,True,False,True
+1-2,True,True,True,False,True
+1-1,True,True,True,False,True
+1-0,True,True,True,False,False
+0-0,True,True,True,False,True
+1-2,True,True,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,False
+1-2,True,True,True,False,True
+1-2,True,True,True,False,True
+1-2,True,True,True,False,False
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,False
+0-2,True,False,True,False,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+3-0,True,False,True,True,True
+2-0,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+2-2,True,False,True,True,False
+2-1,True,False,True,True,True
+2-0,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+1-2,True,False,True,True,True
+1-1,True,False,True,True,False
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+1-1,True,False,True,False,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+1-2,True,False,True,True,False
+1-1,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,False
+1-2,True,False,True,False,True
+1-1,True,False,True,False,False
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+2-2,True,False,True,True,False
+2-2,True,False,True,True,True
+2-1,True,False,True,True,True
+2-0,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+2-2,True,False,True,True,False
+2-2,True,False,True,True,True
+1-2,True,False,True,True,True
+1-2,True,False,True,True,True
+0-2,True,False,True,True,False
+0-1,True,False,True,True,False
+0-0,True,False,True,True,True
+1-1,True,False,True,False,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+3-1,True,False,True,False,True
+3-0,True,False,True,False,True
+2-0,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-1,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+0-0,False,True,True,True,True
+0-2,False,True,True,True,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+0-2,False,True,True,True,False
+0-2,False,True,True,True,True
+0-1,False,True,True,True,False
+0-0,False,True,True,True,True
+0-0,False,True,True,True,True
+1-2,False,True,True,True,True
+1-1,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+0-0,False,True,True,True,True
+1-2,False,True,True,False,True
+1-1,False,True,True,False,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+3-2,False,True,True,False,True
+3-1,False,True,True,False,True
+3-0,False,True,True,False,True
+2-0,False,True,True,False,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+0-1,False,True,True,False,True
+0-0,False,True,True,False,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+3-2,True,True,True,True,False
+3-2,True,True,True,True,True
+3-2,True,True,True,True,False
+2-2,True,True,True,True,False
+1-2,True,True,True,True,True
+1-2,True,True,True,True,True
+1-1,True,True,True,True,False
+0-1,True,True,True,True,False
+0-0,True,True,True,True,True
+3-2,False,True,True,False,False
+3-2,False,True,True,False,True
+3-2,False,True,True,False,True
+3-2,False,True,True,False,True
+2-2,False,True,True,False,True
+1-2,False,True,True,False,False
+1-2,False,True,True,False,True
+1-2,False,True,True,False,True
+1-1,False,True,True,False,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+3-2,False,True,True,True,True
+2-2,False,True,True,True,True
+1-2,False,True,True,True,True
+0-2,False,True,True,True,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+2-0,False,True,True,False,True
+1-0,False,True,True,False,False
+0-0,False,True,True,False,True
+2-1,False,True,True,False,True
+1-1,False,True,True,False,False
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+1-1,True,False,True,False,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+3-2,True,False,True,True,False
+2-2,True,False,True,True,True
+1-2,True,False,True,True,False
+1-1,True,False,True,True,True
+1-0,True,False,True,True,False
+0-0,True,False,True,True,False
+1-1,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-2,True,False,True,False,True
+1-1,True,False,True,False,False
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+3-1,True,False,True,False,True
+2-1,True,False,True,False,True
+2-0,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-2,False,True,True,False,False
+1-2,False,True,True,False,True
+1-2,False,True,True,False,True
+1-2,False,True,True,False,True
+1-1,False,True,True,False,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,False
+1-2,False,True,True,True,True
+0-2,False,True,True,True,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,False
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+2-1,True,True,True,True,False
+2-0,True,True,True,True,True
+1-0,True,True,True,True,False
+0-0,True,True,True,True,False
+1-2,True,True,True,False,True
+0-2,True,True,True,False,False
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,True,True,True,False,True
+2-2,True,True,True,False,False
+2-2,True,True,True,False,True
+1-2,True,True,True,False,True
+1-1,True,True,True,False,True
+0-1,True,True,True,False,False
+0-0,True,True,True,False,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,False
+3-2,True,True,True,False,True
+3-2,True,True,True,False,False
+3-1,True,True,True,False,True
+3-0,True,True,True,False,True
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,False
+2-2,True,True,True,False,True
+2-1,True,True,True,False,False
+1-1,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,False
+1-2,True,True,True,True,False
+1-2,True,True,True,True,True
+0-2,True,True,True,True,False
+0-1,True,True,True,True,False
+0-0,True,True,True,True,True
+2-1,True,False,True,False,True
+2-0,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+0-0,True,False,True,True,False
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,False
+0-0,True,True,True,False,True
+2-2,True,True,True,True,True
+2-2,True,True,True,True,True
+1-2,True,True,True,True,False
+1-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,False
+2-2,True,True,True,False,False
+2-2,True,True,True,False,True
+1-2,True,True,True,False,False
+0-2,True,True,True,False,True
+0-1,True,True,True,False,False
+0-0,True,True,True,False,True
+1-2,True,False,True,True,False
+1-1,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-2,True,False,True,False,False
+1-1,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-2,True,False,True,True,True
+1-1,True,False,True,True,True
+0-1,True,False,True,True,False
+0-0,True,False,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,True
+1-1,True,True,True,False,False
+0-1,True,True,True,False,False
+0-0,True,True,True,False,True
+1-2,True,True,True,False,False
+1-2,True,True,True,False,True
+1-1,True,True,True,False,False
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-2,True,False,True,True,True
+0-1,True,False,True,True,False
+0-0,True,False,True,True,True
+2-2,True,False,True,True,True
+2-2,True,False,True,True,False
+1-2,True,False,True,True,True
+1-2,True,False,True,True,True
+1-1,True,False,True,True,False
+0-1,True,False,True,True,True
+0-0,True,False,True,True,False
+1-2,True,False,True,False,True
+1-2,True,False,True,False,False
+1-1,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+0-2,True,False,True,True,False
+0-1,True,False,True,True,False
+0-0,True,False,True,True,True
+2-1,False,True,True,True,True
+2-0,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+1-2,False,True,True,False,True
+0-2,False,True,True,False,True
+0-1,False,True,True,False,True
+0-0,False,True,True,False,True
+2-2,False,True,True,True,True
+1-2,False,True,True,True,True
+1-2,False,True,True,True,True
+1-1,False,True,True,True,True
+1-0,False,True,True,True,False
+0-0,False,True,True,True,True
+3-2,True,False,True,False,True
+2-2,True,False,True,False,False
+1-2,True,False,True,False,True
+1-2,True,False,True,False,True
+1-1,True,False,True,False,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+0-2,True,False,True,True,True
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+2-1,True,False,True,True,True
+2-0,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+3-2,True,False,True,True,True
+3-1,True,False,True,True,True
+2-1,True,False,True,True,True
+2-0,True,False,True,True,True
+1-0,True,False,True,True,False
+0-0,True,False,True,True,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-0,True,True,True,False,True
+1-2,True,True,True,True,False
+0-2,True,True,True,True,False
+0-2,True,True,True,True,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,True
+1-2,True,True,True,False,True
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,False,False,True,False,True
+2-2,False,False,True,False,True
+2-1,False,False,True,False,True
+1-1,False,False,True,False,True
+1-0,False,False,True,False,True
+0-0,False,False,True,False,True
+3-2,False,True,True,True,True
+3-2,False,True,True,True,True
+2-2,False,True,True,True,True
+2-2,False,True,True,True,False
+2-2,False,True,True,True,True
+2-1,False,True,True,True,True
+1-1,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+0-2,False,True,True,True,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,False,False
+0-1,True,True,True,False,False
+0-0,True,True,True,False,True
+2-2,True,True,True,True,True
+2-1,True,True,True,True,True
+2-0,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+1-2,False,True,True,False,True
+1-1,False,True,True,False,False
+0-1,False,True,True,False,False
+0-0,False,True,True,False,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,False
+3-2,True,True,True,False,True
+2-2,True,True,True,False,True
+2-1,True,True,True,False,True
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,False
+3-2,False,True,True,False,True
+3-2,False,True,True,False,True
+2-2,False,True,True,False,True
+1-2,False,True,True,False,True
+0-2,False,True,True,False,True
+0-1,False,True,True,False,True
+0-0,False,True,True,False,True
+3-2,False,True,True,True,True
+3-2,False,True,True,True,True
+2-2,False,True,True,True,False
+1-2,False,True,True,True,True
+0-2,False,True,True,True,False
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+3-2,False,True,True,False,False
+3-2,False,True,True,False,True
+3-2,False,True,True,False,True
+2-2,False,True,True,False,True
+2-1,False,True,True,False,True
+1-1,False,True,True,False,True
+0-1,False,True,True,False,False
+0-0,False,True,True,False,True
+2-2,False,True,True,True,True
+1-2,False,True,True,True,True
+1-1,False,True,True,True,False
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+1-2,False,True,True,True,True
+1-2,False,True,True,True,False
+0-2,False,True,True,True,False
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+1-2,True,True,True,True,False
+1-1,True,True,True,True,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,True
+2-1,True,True,True,True,True
+1-1,True,True,True,True,False
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,True,True,False,True
+1-2,True,True,True,False,False
+0-2,True,True,True,False,False
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,True,True,True,False,False
+1-2,True,True,True,False,True
+1-1,True,True,True,False,False
+0-1,True,True,True,False,False
+0-0,True,True,True,False,True
+2-2,True,False,True,True,True
+2-1,True,False,True,True,True
+2-0,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,False
+1-2,True,False,True,True,True
+1-2,True,False,True,True,False
+1-1,True,False,True,True,True
+1-0,True,False,True,True,False
+0-0,True,False,True,True,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+0-1,True,False,True,True,True
+0-0,True,False,True,True,False
+3-2,False,True,True,False,True
+2-2,False,True,True,False,True
+2-1,False,True,True,False,True
+1-1,False,True,True,False,False
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+2-1,False,True,True,False,True
+2-0,False,True,True,False,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+3-2,False,True,True,True,True
+2-2,False,True,True,True,True
+1-2,False,True,True,True,True
+1-1,False,True,True,True,False
+1-0,False,True,True,True,False
+0-0,False,True,True,True,True
+1-2,False,True,True,False,False
+1-2,False,True,True,False,True
+1-1,False,True,True,False,True
+0-1,False,True,True,False,True
+0-0,False,True,True,False,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,False,True
+0-1,True,True,True,False,False
+0-0,True,True,True,False,True
+1-2,True,True,True,True,False
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+1-1,False,True,True,False,True
+0-1,False,True,True,False,False
+0-0,False,True,True,False,True
+0-0,True,True,True,False,True
+1-2,True,True,True,False,True
+1-2,True,True,True,False,True
+1-1,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+3-2,True,True,True,False,True
+2-2,True,True,True,False,True
+2-2,True,True,True,False,False
+1-2,True,True,True,False,True
+1-1,True,True,True,False,True
+0-1,True,True,True,False,False
+0-0,True,True,True,False,True
+3-1,True,True,True,True,True
+3-0,True,True,True,True,True
+2-0,True,True,True,True,True
+1-0,True,True,True,True,False
+0-0,True,True,True,True,False
+0-2,False,True,True,True,False
+0-1,False,True,True,True,False
+0-0,False,True,True,True,True
+2-2,False,True,True,False,True
+2-2,False,True,True,False,False
+1-2,False,True,True,False,True
+1-2,False,True,True,False,False
+0-2,False,True,True,False,True
+0-2,False,True,True,False,False
+0-1,False,True,True,False,False
+0-0,False,True,True,False,True
+0-0,False,True,True,False,True
+0-0,True,True,True,True,True
+3-0,True,True,True,True,True
+2-0,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,False
+2-2,True,True,True,False,True
+2-1,True,True,True,False,True
+1-1,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+3-2,True,True,True,True,True
+2-2,True,True,True,True,True
+1-2,True,True,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,False,True
+0-1,True,True,True,False,False
+0-0,True,True,True,False,True
+2-2,True,True,True,False,True
+2-1,True,True,True,False,True
+1-1,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+0-0,True,False,True,True,False
+1-1,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+3-2,True,False,True,True,True
+2-2,True,False,True,True,False
+2-1,True,False,True,True,True
+1-1,True,False,True,True,True
+0-1,True,False,True,True,False
+0-0,True,False,True,True,True
+1-1,True,True,True,True,False
+1-0,True,True,True,True,False
+0-0,True,True,True,True,True
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+2-2,True,False,True,False,True
+2-1,True,False,True,False,True
+2-0,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+3-1,True,False,True,True,True
+3-0,True,False,True,True,True
+2-0,True,False,True,True,True
+1-0,True,False,True,True,False
+0-0,True,False,True,True,True
+0-2,True,False,True,True,False
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+2-2,True,False,True,False,False
+1-2,True,False,True,False,True
+1-1,True,False,True,False,False
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+1-2,True,True,True,True,False
+1-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+3-0,True,True,True,False,True
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+3-2,True,True,True,True,True
+2-2,True,True,True,True,True
+1-2,True,True,True,True,False
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,False,False
+0-2,True,True,True,False,True
+0-1,True,True,True,False,False
+0-0,True,True,True,False,True
+2-2,True,True,True,False,True
+2-1,True,True,True,False,True
+1-1,True,True,True,False,False
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,True,True,True,False,True
+1-2,True,True,True,False,False
+1-1,True,True,True,False,False
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,True,True,True,False,True
+2-2,True,True,True,False,True
+2-2,True,True,True,False,True
+1-2,True,True,True,False,False
+1-1,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+3-1,True,True,True,True,True
+2-1,True,True,True,True,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,False
+2-2,True,True,True,False,True
+2-1,True,True,True,False,True
+1-1,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,True,True,True,True,True
+1-2,True,True,True,True,False
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,True,True,True,False
+2-2,True,True,True,True,True
+2-2,True,True,True,True,True
+1-2,True,True,True,True,False
+1-2,True,True,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,True,True,True,True
+1-2,True,True,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,True,True,False,False
+2-2,True,True,True,False,True
+2-1,True,True,True,False,False
+1-1,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,True,True,True,True,False
+2-2,True,True,True,True,True
+1-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+3-1,True,True,True,True,True
+3-0,True,True,True,True,True
+2-0,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,False
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+1-2,True,True,True,True,True
+1-2,True,True,True,True,False
+0-2,True,True,True,True,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+1-2,True,True,True,True,True
+1-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+1-2,True,True,True,True,True
+1-2,True,True,True,True,True
+1-2,True,True,True,True,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,False,True
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+3-2,True,True,True,False,True
+2-2,True,True,True,False,True
+1-2,True,True,True,False,True
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,True,True,True,False,False
+0-0,True,True,True,False,False
+2-2,True,True,True,False,False
+1-2,True,True,True,False,True
+1-2,True,True,True,False,False
+1-1,True,True,True,False,False
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+2-1,True,True,True,False,True
+1-1,True,True,True,False,False
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,False
+0-0,True,True,True,True,True
+3-2,True,True,True,False,True
+2-2,True,True,True,False,True
+1-2,True,True,True,False,False
+1-1,True,True,True,False,False
+1-0,True,True,True,False,True
+0-0,True,True,True,False,False
+2-2,True,True,True,True,True
+1-2,True,True,True,True,True
+1-1,True,True,True,True,False
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,True,True,True,True
+2-1,True,True,True,True,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,True,False
+0-1,True,True,True,True,True
+0-0,True,True,True,True,False
+2-2,True,True,True,True,True
+1-2,True,True,True,True,False
+1-1,True,True,True,True,False
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,False
+0-0,False,True,True,False,True
+3-2,False,True,True,False,True
+3-1,False,True,True,False,True
+2-1,False,True,True,False,True
+1-1,False,True,True,False,False
+1-0,False,True,True,False,True
+0-0,False,True,True,False,False
+3-2,False,True,True,True,True
+3-1,False,True,True,True,True
+2-1,False,True,True,True,True
+2-0,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-0,True,False,True,False,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+0-0,True,False,True,True,True
+2-2,True,False,True,True,True
+1-2,True,False,True,True,True
+1-2,True,False,True,True,False
+0-2,True,False,True,True,True
+0-2,True,False,True,True,False
+0-1,True,False,True,True,False
+0-0,True,False,True,True,True
+1-2,True,False,True,False,False
+0-2,True,False,True,False,True
+0-2,True,False,True,False,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+3-2,True,False,True,True,True
+3-2,True,False,True,True,True
+3-2,True,False,True,True,True
+2-2,True,False,True,True,True
+1-2,True,False,True,True,True
+1-2,True,False,True,True,False
+1-1,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,True,True,True,True
+1-2,True,True,True,True,False
+0-2,True,True,True,True,False
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+0-2,True,False,True,True,False
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+2-2,True,False,True,True,False
+2-2,True,False,True,True,True
+2-1,True,False,True,True,True
+2-0,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+1-2,True,True,True,True,False
+1-2,True,True,True,True,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+3-2,True,True,True,True,False
+3-1,True,True,True,True,True
+2-1,True,True,True,True,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+3-0,True,True,True,True,True
+2-0,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+3-2,True,True,True,True,True
+2-2,True,True,True,True,True
+2-2,True,True,True,True,True
+1-2,True,True,True,True,False
+1-2,True,True,True,True,True
+0-2,True,True,True,True,False
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,True,False
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,False,True,False,True
+2-2,True,False,True,False,True
+2-2,True,False,True,False,False
+2-2,True,False,True,False,True
+1-2,True,False,True,False,True
+1-1,True,False,True,False,True
+0-1,True,False,True,False,True
+0-0,True,False,True,False,True
+1-1,True,False,True,True,True
+0-1,True,False,True,True,False
+0-0,True,False,True,True,True
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+1-1,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+0-2,False,True,True,False,True
+0-1,False,True,True,False,True
+0-0,False,True,True,False,True
+1-1,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+1-2,True,True,True,True,True
+0-2,True,True,True,True,False
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+1-1,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+3-2,True,True,True,False,True
+2-2,True,True,True,False,True
+1-2,True,True,True,False,True
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+2-1,False,True,True,False,True
+1-1,False,True,True,False,False
+1-0,False,True,True,False,True
+0-0,False,True,True,False,False
+3-1,False,True,True,True,True
+3-0,False,True,True,True,True
+2-0,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+3-2,False,True,True,False,True
+2-2,False,True,True,False,False
+1-2,False,True,True,False,True
+1-2,False,True,True,False,False
+1-1,False,True,True,False,True
+1-0,False,True,True,False,False
+0-0,False,True,True,False,True
+0-1,False,True,True,False,True
+0-0,False,True,True,False,True
+0-1,False,True,True,True,False
+0-0,False,True,True,True,False
+3-2,False,True,True,False,False
+2-2,False,True,True,False,False
+1-2,False,True,True,False,True
+1-2,False,True,True,False,True
+1-1,False,True,True,False,False
+1-0,False,True,True,False,False
+0-0,False,True,True,False,True
+0-0,True,False,True,False,True
+1-2,True,False,True,True,True
+1-1,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+3-2,True,False,True,False,True
+2-2,True,False,True,False,False
+2-1,True,False,True,False,False
+1-1,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-1,True,False,True,True,False
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+0-2,True,False,True,False,False
+0-1,True,False,True,False,False
+0-0,True,False,True,False,True
+2-1,True,False,True,True,True
+1-1,True,False,True,True,True
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+1-2,True,False,True,False,True
+1-1,True,False,True,False,True
+0-1,True,False,True,False,False
+0-0,True,False,True,False,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+1-2,True,True,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,True,True,True,True
+2-1,True,True,True,True,True
+2-0,True,True,True,True,True
+1-0,True,True,True,True,False
+0-0,True,True,True,True,True
+0-0,True,True,True,False,True
+0-2,True,True,True,True,False
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+1-1,False,True,True,False,True
+0-1,False,True,True,False,True
+0-0,False,True,True,False,True
+1-2,False,True,True,False,True
+0-2,False,True,True,False,False
+0-2,False,True,True,False,True
+0-1,False,True,True,False,False
+0-0,False,True,True,False,True
+3-2,False,True,True,False,True
+3-2,False,True,True,False,True
+2-2,False,True,True,False,True
+2-2,False,True,True,False,True
+2-1,False,True,True,False,True
+1-1,False,True,True,False,True
+0-1,False,True,True,False,True
+0-0,False,True,True,False,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,False
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+2-1,True,True,True,False,True
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,False
+0-0,True,True,True,True,True
+3-2,True,True,True,False,False
+3-2,True,True,True,False,True
+2-2,True,True,True,False,True
+2-2,True,True,True,False,True
+2-2,True,True,True,False,True
+2-1,True,True,True,False,True
+1-1,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+0-0,False,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,False
+3-0,True,True,True,False,True
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,False
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,False
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+1-2,True,True,True,False,True
+1-2,True,True,True,False,True
+1-2,True,True,True,False,True
+1-2,True,True,True,False,False
+1-1,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+1-2,True,True,True,False,False
+1-1,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,True,True,True,True,False
+1-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,False
+1-2,True,True,True,True,True
+1-1,True,True,True,True,False
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,False,True,True,False
+1-2,True,False,True,True,True
+1-1,True,False,True,True,False
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+0-0,True,False,True,False,True
+2-2,True,False,True,True,True
+2-2,True,False,True,True,True
+1-2,True,False,True,True,False
+1-2,True,False,True,True,True
+1-1,True,False,True,True,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+0-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-2,True,False,True,False,True
+1-1,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-2,True,False,True,False,True
+1-1,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+0-1,True,False,True,True,True
+0-0,True,False,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,True,True,False,True
+2-2,True,True,True,False,True
+2-1,True,True,True,False,True
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+1-1,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,True,True,True,True,True
+1-2,True,True,True,True,True
+1-1,True,True,True,True,False
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+1-2,True,True,True,True,True
+1-2,True,True,True,True,False
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,False
+2-2,True,True,True,False,True
+2-1,True,True,True,False,True
+1-1,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+0-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,False
+0-0,True,True,True,True,True
+3-2,True,True,True,False,True
+2-2,True,True,True,False,False
+1-2,True,True,True,False,True
+1-2,True,True,True,False,True
+0-2,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+2-2,True,True,True,True,True
+2-1,True,True,True,True,True
+2-0,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+0-2,True,True,True,True,True
+0-2,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+0-0,True,True,True,False,True
+1-1,True,True,True,True,False
+1-0,True,True,True,True,True
+0-0,True,True,True,True,False
+0-0,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+2-1,True,True,True,False,True
+2-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+0-0,True,False,True,True,True
+2-2,True,False,True,False,True
+2-1,True,False,True,False,True
+2-0,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+3-0,True,False,True,True,True
+2-0,True,False,True,True,True
+1-0,True,False,True,True,False
+0-0,True,False,True,True,True
+0-0,True,False,True,False,True
+3-2,True,False,True,True,False
+2-2,True,False,True,True,True
+1-2,True,False,True,True,False
+1-1,True,False,True,True,False
+0-1,True,False,True,True,True
+0-0,True,False,True,True,False
+1-1,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-2,True,False,True,False,True
+1-1,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+2-0,True,False,True,False,True
+1-0,True,False,True,False,True
+0-0,True,False,True,False,True
+1-0,True,False,True,True,True
+0-0,True,False,True,True,True
+1-1,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+3-0,True,True,True,True,True
+2-0,True,True,True,True,True
+1-0,True,True,True,True,False
+0-0,True,True,True,True,False
+2-2,True,True,True,True,True
+2-1,True,True,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+1-1,True,True,True,True,True
+0-1,True,True,True,True,True
+0-0,True,True,True,True,True
+2-2,True,True,True,False,True
+1-2,True,True,True,False,True
+1-1,True,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,False
+2-2,True,True,True,True,True
+1-2,True,True,True,True,False
+1-1,True,True,True,True,False
+1-0,True,True,True,True,True
+0-0,True,True,True,True,True
+0-0,True,True,True,True,True
+1-2,True,True,True,False,True
+1-1,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+0-0,True,True,True,True,True
+1-2,True,True,True,True,True
+0-2,True,True,True,True,False
+0-1,True,True,True,True,False
+0-0,True,True,True,True,True
+2-2,False,True,True,True,True
+2-1,False,True,True,True,True
+2-0,False,True,True,True,True
+1-0,False,True,True,True,False
+0-0,False,True,True,True,False
+1-2,False,True,True,False,True
+1-1,False,True,True,False,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+0-2,False,True,True,True,True
+0-1,False,True,True,True,True
+0-0,False,True,True,True,True
+3-1,False,True,True,True,True
+3-0,False,True,True,True,True
+2-0,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,False
+2-2,False,True,True,True,True
+2-1,False,True,True,True,True
+2-0,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,False
+1-0,False,False,True,True,True
+0-0,False,False,True,True,True
+1-2,False,False,True,True,True
+1-1,False,False,True,True,True
+1-0,False,False,True,True,True
+0-0,False,False,True,True,True
+3-1,False,False,True,True,True
+3-0,False,False,True,True,True
+2-0,False,False,True,True,True
+1-0,False,False,True,True,False
+0-0,False,False,True,True,True
+2-0,False,False,True,True,True
+1-0,False,False,True,True,True
+0-0,False,False,True,True,False
+1-2,False,True,True,True,True
+1-1,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+1-2,False,True,True,False,True
+1-1,False,True,True,False,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+2-1,False,True,True,True,True
+1-1,False,True,True,True,True
+1-0,False,True,True,True,True
+0-0,False,True,True,True,True
+1-0,False,True,True,False,True
+0-0,False,True,True,False,True
+0-0,False,True,True,False,True
+0-1,False,True,True,False,True
+0-0,False,True,True,False,True
+0-1,True,True,True,False,True
+0-0,True,True,True,False,True
+1-0,True,True,True,False,True
+0-0,True,True,True,False,True
+3-2,True,True,True,True,True
+2-2,True,True,True,True,False
+1-2,True,True,True,True,True
+1-1,True,True,True,True,True
+1-0,True,True,True,True,True
+0-0,True,True,True,True,False

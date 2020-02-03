@@ -46,8 +46,9 @@ try:
         AfterFifth=int(i['inning'])>5
         Righty='R'==i['stand']
         pitchtype=i['pitch_name']
+        heat= ((pitchtype=='4-Seam Fastball') or (pitchtype=='Sinker') or (pitchtype=='2-Seam Fastball'))
         if(pitchtype!='Intentional Ball'):
-            writecsv.write(count+","+str(ahead)+","+ str(close)+","+str(AfterFifth)+","+str(Righty)+","+pitchtype+"\n")
+            writecsv.write(count+","+str(ahead)+","+ str(close)+","+str(AfterFifth)+","+str(Righty)+","+str(heat)+"\n")
     writecsv.close()
     df=pd.read_csv("output.csv")
     data=pd.get_dummies(df[['Count','Ahead','Close','AfterFifth','Righty']])
