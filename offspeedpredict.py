@@ -4,7 +4,8 @@ import sys
 import unittest
 import csv
 from sklearn.model_selection import train_test_split
-
+import pydotplus
+from IPython.display import Image
 '''
 For more advanced models, lookup hitter ID
 and their respective tendencies
@@ -52,15 +53,28 @@ try:
     writecsv.close()
     df=pd.read_csv("output.csv")
     data=pd.get_dummies(df[['Count','Ahead','Close','AfterFifth','Righty']])
+
     print(data)
     x_train, x_test, y_train, y_test = train_test_split(data, df['Pitch'],test_size=0.2)
     classifier=tree.DecisionTreeClassifier()
     classtrain=classifier.fit(x_train,y_train)
     y_pred = classtrain.predict(x_test)
+
+    #GRAPH VISUALIZATION I COPY/PASTED (if err, isHere)
+
+    # Export/Print a decision tree in DOT format.
+    print(tree.export_graphviz(classtrain, None))
+
+    #Create Dot Data
+    dot_data = tree.export_graphviz(clf_train, out_file=None, feature_names=list(data.columns.values),class_names=['Not_Play', 'Play'], rounded=True, filled=True)
+    graph = pydotplus.graph_from_dot_data(dot_data)
+    graph.write("tree.png")
+    print("Graph at Tree.png")
+
+    #end copy/paste
     df2=pd.DataFrame({'Actual':y_test, 'Predicted':y_pred})
     print(df2)
-    df2.to_csv(r'df2.csv',index=None,header=True)
-    
+    df2.to_csv(r'df2.csv',index=None,header=True) 
     g=open('df2.csv')
     r = csv.DictReader(g,delimiter=',')
     correct=0
@@ -70,7 +84,7 @@ try:
             correct+=1
         total+=1
     g.close()
-    print("Correct: " + str(correct) + " Total: " + str(total) +" Num: " +str(float(correct/total)))
+    print("Correct: " + str(correct) + " Total: " + str(total) +" Num: " +str(float(correct/total*100.0)) + "%")
 
 except:
     print("Incorrect File Format")

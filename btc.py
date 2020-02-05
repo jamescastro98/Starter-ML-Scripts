@@ -14,20 +14,20 @@ while(offset<1):
 
 offset=-offset
 df=pd.read_csv(sys.argv[1],sep=',')
-df=df[[' Close/Last']]
-df['Pred']=df[[' Close/Last']].shift(offset)
+df=df[['Close']]
+df['Pred']=df[['Close']].shift(offset)
 nparr=np.array(df.drop(['Pred'],1))
 nparr=nparr[:offset]
 x=[]
 for j in nparr:
     for i in j:
-        x.append([float(i.replace('$',''))])
+        x.append([float(i)])
 x=np.array(x[::-1])
 arr2=np.array(df['Pred'])
 arr2=arr2[:offset]
 y=[]
 for k in arr2:
-    y.append(float(k.replace('$','')))
+    y.append(float(k))
 y=np.array(y[::-1])
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2)
 svr=SVR(kernel='rbf',C=1e3,gamma=0.1)
@@ -41,7 +41,7 @@ prediction=np.array(df.drop(['Pred'],1))[:-offset]
 p=[]
 for j in prediction:
     for i in j:
-        p.append([float(i.replace('$',''))])
+        p.append([float(i)])
 p=np.array(p[::-1])
 print("SVM Model:\n$" + str(svr.predict(p)[-1]))
 print("Linear Regression Model:\n$" + str(reg.predict(p)[-1]))

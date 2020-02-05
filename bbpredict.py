@@ -19,7 +19,7 @@ except:
     print("File Not Existent")
     sys.exit(1)
 
-try:
+if(True):
     writecsv=open("output.csv",'w')
     writecsv.write("Count,Ahead,Close,AfterFifth,Righty,Pitch\n")
     '''
@@ -70,8 +70,9 @@ try:
         total+=1
     g.close()
     print("Correct: " + str(correct) + " Total: " + str(total) +" Num: " +str(float(correct/total)))
-
+'''
 except:
     print("Incorrect File Format")
     f.close()
     sys.exit(1)
+'''
