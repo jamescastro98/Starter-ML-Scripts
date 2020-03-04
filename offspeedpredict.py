@@ -60,18 +60,6 @@ try:
     classtrain=classifier.fit(x_train,y_train)
     y_pred = classtrain.predict(x_test)
 
-    #GRAPH VISUALIZATION I COPY/PASTED (if err, isHere)
-
-    # Export/Print a decision tree in DOT format.
-    print(tree.export_graphviz(classtrain, None))
-
-    #Create Dot Data
-    dot_data = tree.export_graphviz(clf_train, out_file=None, feature_names=list(data.columns.values),class_names=['Not_Play', 'Play'], rounded=True, filled=True)
-    graph = pydotplus.graph_from_dot_data(dot_data)
-    graph.write("tree.png")
-    print("Graph at Tree.png")
-
-    #end copy/paste
     df2=pd.DataFrame({'Actual':y_test, 'Predicted':y_pred})
     print(df2)
     df2.to_csv(r'df2.csv',index=None,header=True) 
