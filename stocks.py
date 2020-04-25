@@ -12,7 +12,6 @@ offset=0
 while(offset<1):
     offset=int(input("How many days would you like to project? "))
 
-simple=input("Would you like simple output or advanced? Y/n for Simple.")
 offset=-offset
 df=pd.read_csv(sys.argv[1],sep=',')
 df=df[[' Close/Last']]
