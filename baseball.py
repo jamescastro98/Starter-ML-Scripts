@@ -4,8 +4,7 @@ import sys
 import unittest
 import csv
 from sklearn.model_selection import train_test_split
-import pydotplus
-from IPython.display import Image
+
 '''
 For more advanced models, lookup hitter ID
 and their respective tendencies
@@ -24,7 +23,7 @@ try:
     writecsv=open("output.csv",'w')
     writecsv.write("Count,Ahead,Close,AfterFifth,Righty,Pitch\n")
    
-   '''
+    '''
     Format Data for Actual Predictions
     '''
     for i in reader:
